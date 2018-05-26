@@ -1,0 +1,9 @@
+   {
+       "type": "MOD_INFO",
+       "mod_type": "SUPPLEMENTAL",
+       "ident": "surv_crowbar",
+       "name": "サバイバーバール",
+       "author": "none",
+       "description": "戦闘性能を向上させたサバイバーバールを追加します(転用・改変等ご自由にどうぞ)",
+       "path": ""
+   }

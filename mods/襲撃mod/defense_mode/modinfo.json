@@ -1,0 +1,10 @@
+    {
+        "type": "MOD_INFO",
+        "mod-type": "SUPPLEMENTAL",
+        "ident": "defense_mode",
+        "name": "defense_mode",
+        "author": "TaiGambol, Michaelmalus",
+        "description": "test",
+        "category": "rebalance",
+        "path": ""
+    }

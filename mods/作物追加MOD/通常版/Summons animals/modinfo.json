@@ -1,0 +1,10 @@
+ {
+       "type": "MOD_INFO",
+       "mod_type"    : "SUPPLEMENTAL",
+       "ident"       : "Summons animals",
+       "name"        : "追加 - 動物召喚アイテム",
+       "description" : "野生動物を召喚するアイテムを追加します",
+       "category"    : "items",
+       "dependencies": [ "dda" ],
+       "path"        : ""
+   }

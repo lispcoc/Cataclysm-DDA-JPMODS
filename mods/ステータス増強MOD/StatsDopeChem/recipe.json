@@ -1,0 +1,345 @@
+[
+  {
+    "result": "DopeChemSTR",
+    "type": "recipe",
+    "category": "CC_CHEM",
+    "subcategory": "CSC_CHEM_OTHER",
+    "skill_used": "cooking",
+    "skills_required": [ "firstaid", 1 ],
+    "difficulty": 8,
+    "time": 10000,
+    "autolearn": true,
+    "qualities":[
+      {"id":"CHEM","level":3}
+    ], "tools": [
+      [ [ "surface_heat", 25, "LIST" ] ]
+    ],
+    "components": [
+      [
+        [ "human_flesh", 4 ],
+        [ "fetus", 1 ],
+        [ "arm", 2 ],
+        [ "leg", 2 ]
+      ],
+      [
+        [ "blood", 2 ]
+      ],
+      [
+        [ "iv_mutagen", 1 ]
+      ],
+      [
+        [ "iv_mutagen_beast", 1 ]
+      ],
+      [
+        [ "iv_mutagen_ursine", 1 ]
+      ],
+      [
+        [ "heroin", 5 ],
+        [ "oxycodone", 10 ],
+        [ "tramadol", 15 ],
+        [ "diazepam", 15 ],
+        [ "codeine", 20 ],
+        [ "poppy_pain", 20 ]
+      ],
+      [
+        [ "lsd", 5 ],
+        [ "prozac", 10 ],
+        [ "thorazine", 10 ],
+        [ "adderall", 10 ],
+        [ "xanax", 10 ],
+        [ "pills_sleep", 10 ],
+        [ "poppy_sleep", 15 ]
+      ],
+      [
+        [ "vitamins", 5 ],
+        [ "iodine", 5 ],
+        [ "disinfectant", 5 ],
+        [ "protein_powder", 10 ]
+      ]
+    ]
+  },{
+    "result": "DopeChemDEX",
+    "type": "recipe",
+    "category": "CC_CHEM",
+    "subcategory": "CSC_CHEM_OTHER",
+    "skill_used": "cooking",
+    "skills_required": [ "firstaid", 1 ],
+    "difficulty": 8,
+    "time": 10000,
+    "autolearn": true,
+    "qualities":[
+      {"id":"CHEM","level":3}
+    ], "tools": [
+      [ [ "surface_heat", 25, "LIST" ] ]
+    ],
+    "components": [
+      [
+        [ "human_flesh", 4 ],
+        [ "fetus", 1 ],
+        [ "arm", 2 ],
+        [ "leg", 2 ]
+      ],
+      [
+        [ "blood", 2 ]
+      ],
+      [
+        [ "iv_mutagen", 1 ]
+      ],
+      [
+        [ "iv_mutagen_fish", 1 ]
+      ],
+      [
+        [ "iv_mutagen_spider", 1 ]
+      ],
+      [
+        [ "heroin", 5 ],
+        [ "oxycodone", 10 ],
+        [ "tramadol", 15 ],
+        [ "diazepam", 15 ],
+        [ "codeine", 20 ],
+        [ "poppy_pain", 20 ]
+      ],
+      [
+        [ "lsd", 5 ],
+        [ "prozac", 10 ],
+        [ "thorazine", 10 ],
+        [ "adderall", 10 ],
+        [ "xanax", 10 ],
+        [ "pills_sleep", 10 ],
+        [ "poppy_sleep", 15 ]
+      ],
+      [
+        [ "vitamins", 5 ],
+        [ "iodine", 5 ],
+        [ "disinfectant", 5 ],
+        [ "protein_powder", 10 ]
+      ]
+    ]
+  },{
+    "result": "DopeChemINT",
+    "type": "recipe",
+    "category": "CC_CHEM",
+    "subcategory": "CSC_CHEM_OTHER",
+    "skill_used": "cooking",
+    "skills_required": [ "firstaid", 1 ],
+    "difficulty": 8,
+    "time": 10000,
+    "autolearn": true,
+    "qualities":[
+      {"id":"CHEM","level":3}
+    ], "tools": [
+      [ [ "surface_heat", 25, "LIST" ] ]
+    ],
+    "components": [
+      [
+        [ "human_flesh", 4 ],
+        [ "fetus", 1 ],
+        [ "arm", 2 ],
+        [ "leg", 2 ]
+      ],
+      [
+        [ "blood", 2 ]
+      ],
+      [
+        [ "iv_mutagen", 1 ]
+      ],
+      [
+        [ "iv_mutagen_slime", 1 ]
+      ],
+      [
+        [ "iv_mutagen_cephalopod", 1 ]
+      ],
+      [
+        [ "heroin", 5 ],
+        [ "oxycodone", 10 ],
+        [ "tramadol", 15 ],
+        [ "diazepam", 15 ],
+        [ "codeine", 20 ],
+        [ "poppy_pain", 20 ]
+      ],
+      [
+        [ "lsd", 5 ],
+        [ "prozac", 10 ],
+        [ "thorazine", 10 ],
+        [ "adderall", 10 ],
+        [ "xanax", 10 ],
+        [ "pills_sleep", 10 ],
+        [ "poppy_sleep", 15 ]
+      ],
+      [
+        [ "vitamins", 5 ],
+        [ "iodine", 5 ],
+        [ "disinfectant", 5 ],
+        [ "protein_powder", 10 ]
+      ]
+    ]
+  },{
+    "result": "DopeChemPER",
+    "type": "recipe",
+    "category": "CC_CHEM",
+    "subcategory": "CSC_CHEM_OTHER",
+    "skill_used": "cooking",
+    "skills_required": [ "firstaid", 1 ],
+    "difficulty": 8,
+    "time": 10000,
+    "autolearn": true,
+    "qualities":[
+      {"id":"CHEM","level":3}
+    ], "tools": [
+      [ [ "surface_heat", 25, "LIST" ] ]
+    ],
+    "components": [
+      [
+        [ "human_flesh", 4 ],
+        [ "fetus", 1 ],
+        [ "arm", 2 ],
+        [ "leg", 2 ]
+      ],
+      [
+        [ "blood", 2 ]
+      ],
+      [
+        [ "iv_mutagen", 1 ]
+      ],
+      [
+        [ "iv_mutagen_bird", 1 ]
+      ],
+      [
+        [ "iv_mutagen_insect", 1 ]
+      ],
+      [
+        [ "heroin", 5 ],
+        [ "oxycodone", 10 ],
+        [ "tramadol", 15 ],
+        [ "diazepam", 15 ],
+        [ "codeine", 20 ],
+        [ "poppy_pain", 20 ]
+      ],
+      [
+        [ "lsd", 5 ],
+        [ "prozac", 10 ],
+        [ "thorazine", 10 ],
+        [ "adderall", 10 ],
+        [ "xanax", 10 ],
+        [ "pills_sleep", 10 ],
+        [ "poppy_sleep", 15 ]
+      ],
+      [
+        [ "vitamins", 5 ],
+        [ "iodine", 5 ],
+        [ "disinfectant", 5 ],
+        [ "protein_powder", 10 ]
+      ]
+    ]
+  },{
+    "result": "DopeChemRESET",
+    "type": "recipe",
+    "category": "CC_CHEM",
+    "subcategory": "CSC_CHEM_OTHER",
+    "skill_used": "cooking",
+    "skills_required": [ "firstaid", 1 ],
+    "difficulty": 8,
+    "time": 10000,
+    "autolearn": true,
+    "qualities":[
+      {"id":"CHEM","level":3}
+    ], "tools": [
+      [ [ "surface_heat", 25, "LIST" ] ]
+    ],
+    "components": [
+      [
+        [ "human_flesh", 4 ],
+        [ "fetus", 1 ],
+        [ "arm", 2 ],
+        [ "leg", 2 ]
+      ],
+      [
+        [ "blood", 2 ]
+      ],
+      [
+        [ "iv_purifier", 1 ]
+      ],
+      [
+        [ "royal_jelly", 1 ]
+      ],
+      [
+        [ "heroin", 5 ],
+        [ "oxycodone", 10 ],
+        [ "tramadol", 15 ],
+        [ "diazepam", 15 ],
+        [ "codeine", 20 ],
+        [ "poppy_pain", 20 ]
+      ],
+      [
+        [ "lsd", 5 ],
+        [ "prozac", 10 ],
+        [ "thorazine", 10 ],
+        [ "adderall", 10 ],
+        [ "xanax", 10 ],
+        [ "pills_sleep", 10 ],
+        [ "poppy_sleep", 15 ]
+      ],
+      [
+        [ "vitamins", 5 ],
+        [ "iodine", 5 ],
+        [ "disinfectant", 5 ],
+        [ "protein_powder", 10 ]
+      ]
+    ]
+  },{
+    "result": "DopeChemREB",
+    "type": "recipe",
+    "category": "CC_CHEM",
+    "subcategory": "CSC_CHEM_OTHER",
+    "skill_used": "cooking",
+    "skills_required": [ "firstaid", 1 ],
+    "difficulty": 8,
+    "time": 10000,
+    "autolearn": true,
+    "qualities":[
+      {"id":"CHEM","level":3}
+    ], "tools": [
+      [ [ "surface_heat", 25, "LIST" ] ]
+    ],
+    "components": [
+      [
+        [ "human_flesh", 4 ],
+        [ "fetus", 1 ],
+        [ "arm", 2 ],
+        [ "leg", 2 ]
+      ],
+      [
+        [ "blood", 2 ]
+      ],
+      [
+        [ "iv_mutagen_alpha", 1 ]
+      ],
+      [
+        [ "royal_jelly", 1 ]
+      ],
+      [
+        [ "heroin", 5 ],
+        [ "oxycodone", 10 ],
+        [ "tramadol", 15 ],
+        [ "diazepam", 15 ],
+        [ "codeine", 20 ],
+        [ "poppy_pain", 20 ]
+      ],
+      [
+        [ "lsd", 5 ],
+        [ "prozac", 10 ],
+        [ "thorazine", 10 ],
+        [ "adderall", 10 ],
+        [ "xanax", 10 ],
+        [ "pills_sleep", 10 ],
+        [ "poppy_sleep", 15 ]
+      ],
+      [
+        [ "vitamins", 5 ],
+        [ "iodine", 5 ],
+        [ "disinfectant", 5 ],
+        [ "protein_powder", 10 ]
+      ]
+    ]
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+     "type": "MOD_INFO",
+     "ident": "StatsThroughKills",
+     "name": "変更 - 討伐数によるステータス成長",
+     "description": "敵を一定数倒すとステータスが永続的に上昇するようになります。",
+     "category": "rebalance",
+     "dependencies":["dda"]
+  }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "type" : "item_action",
+        "id" : "IUSE_SDC_STR",
+        "name" : "Take"
+    },{
+        "type" : "item_action",
+        "id" : "IUSE_SDC_DEX",
+        "name" : "Take"
+    },{
+        "type" : "item_action",
+        "id" : "IUSE_SDC_INT",
+        "name" : "Take"
+    },{
+        "type" : "item_action",
+        "id" : "IUSE_SDC_PER",
+        "name" : "Take"
+    },{
+        "type" : "item_action",
+        "id" : "IUSE_SDC_RESET",
+        "name" : "Take"
+    },{
+        "type" : "item_action",
+        "id" : "IUSE_SDC_REB",
+        "name" : "Take"
+    }
+]

@@ -1,0 +1,358 @@
+[
+  {
+      "type"            : "COMESTIBLE",
+      "id"              : "mf_seed_copper",
+      "name"            : "種(銅)",
+      "description"     : "どういうわけか銅が実る作物の種です。成長したら銅が収穫できます。",
+      "category"        : "other",
+      "material"        : "fruit",
+      "color"           : "green",
+      "symbol"          : ".",
+      "use_action"      : "SEED",
+      "weight"          : 1,
+      "volume"          : 1,
+      "stack_size"      : 100,
+      "charges"         : 1,
+      "fun"             : 0,
+      "price"           : 100,
+      "seed_data"       : {
+                            "plant_name": "銅",
+                            "fruit": "copper",
+                            "byproducts": [ "withered" ],
+                            "grow"      : 91
+                          }
+  },{
+      "type"            : "COMESTIBLE",
+      "id"              : "mf_seed_iron",
+      "name"            : "種(鉄)",
+      "description"     : "どういうわけか鉄が実る作物の種です。成長したら鉄屑が収穫できます。",
+      "category"        : "other",
+      "material"        : "fruit",
+      "color"           : "green",
+      "symbol"          : ".",
+      "use_action"      : "SEED",
+      "weight"          : 1,
+      "volume"          : 1,
+      "stack_size"      : 100,
+      "charges"         : 1,
+      "fun"             : 0,
+      "price"           : 100,
+      "seed_data"       : {
+                            "plant_name": "鉄",
+                            "fruit": "scrap",
+                            "byproducts": [ "withered" ],
+                            "grow"      : 91
+                          }
+  },{
+      "type"            : "COMESTIBLE",
+      "id"              : "mf_seed_silver",
+      "name"            : "種(銀)",
+      "description"     : "どういうわけか銀が実る作物の種です。成長したら銀が収穫できます。",
+      "category"        : "other",
+      "material"        : "fruit",
+      "color"           : "green",
+      "symbol"          : ".",
+      "use_action"      : "SEED",
+      "weight"          : 1,
+      "volume"          : 1,
+      "stack_size"      : 100,
+      "charges"         : 1,
+      "fun"             : 0,
+      "price"           : 100,
+      "seed_data"       : {
+                            "plant_name": "銀",
+                            "fruit": "silver_small",
+                            "byproducts": [ "withered" ],
+                            "grow"      : 91
+                          }
+  },{
+      "type"            : "COMESTIBLE",
+      "id"              : "mf_seed_gold",
+      "name"            : "種(金)",
+      "description"     : "どういうわけか金が実る作物の種です。成長したら金が収穫できます。",
+      "category"        : "other",
+      "material"        : "fruit",
+      "color"           : "green",
+      "symbol"          : ".",
+      "use_action"      : "SEED",
+      "weight"          : 1,
+      "volume"          : 1,
+      "stack_size"      : 100,
+      "charges"         : 1,
+      "fun"             : 0,
+      "price"           : 100,
+      "seed_data"       : {
+                            "plant_name": "金",
+                            "fruit": "gold_small",
+                            "byproducts": [ "gold_small" ],
+                            "grow"      : 91
+                          }
+  },{
+      "type"            : "COMESTIBLE",
+      "id"              : "mf_seed_aluminum",
+      "name"            : "種(アルミニウム)",
+      "description"     : "どういうわけかアルミニウムが実る作物の種です。成長したらアルミニウムが収穫できます。",
+
+      "category"        : "other",
+      "material"        : "fruit",
+      "color"           : "green",
+      "symbol"          : ".",
+      "use_action"      : "SEED",
+      "weight"          : 1,
+      "volume"          : 1,
+      "stack_size"      : 100,
+      "charges"         : 1,
+      "fun"             : 0,
+      "price"           : 100,
+      "seed_data"       : {
+                            "plant_name": "アルミニウム",
+                            "fruit": "material_aluminium_ingot",
+                            "byproducts": [ "withered" ],
+                            "grow"      : 91
+                          }
+  },{
+      "type"            : "COMESTIBLE",
+      "id"              : "mf_seed_lead",
+      "name"            : "種(鉛)",
+      "description"     : "どういうわけか鉛が実る作物の種です。成長したら鉛が収穫できます。",
+      "category"        : "other",
+      "material"        : "fruit",
+      "color"           : "green",
+      "symbol"          : ".",
+      "use_action"      : "SEED",
+      "weight"          : 1,
+      "volume"          : 1,
+      "stack_size"      : 100,
+      "charges"         : 1,
+      "fun"             : 0,
+      "price"           : 100,
+      "seed_data"       : {
+                            "plant_name": "鉛",
+                            "fruit": "lead",
+                            "byproducts": [ "withered" ],
+                            "grow"      : 91
+                          }
+  },{
+      "type"            : "COMESTIBLE",
+      "id"              : "mf_seed_saltpeter",
+      "name"            : "種(硝石)",
+      "description"     : "どういうわけか硝石が実る作物の種です。成長したら硝石が収穫できます。",
+
+      "category"        : "other",
+      "material"        : "fruit",
+      "color"           : "green",
+      "symbol"          : ".",
+      "use_action"      : "SEED",
+      "weight"          : 1,
+      "volume"          : 1,
+      "stack_size"      : 100,
+      "charges"         : 1,
+      "fun"             : 0,
+      "price"           : 100,
+      "seed_data"       : {
+                            "plant_name": "硝石",
+                            "fruit": "material_niter",
+                            "byproducts": [ "withered" ],
+                            "grow"      : 91
+                          }
+  },{
+      "type"            : "COMESTIBLE",
+      "id"              : "mf_seed_coal",
+      "name"            : "種(石炭)",
+      "description"     : "どういうわけか石炭が実る作物の種です。成長したら石炭が収穫できます。",
+
+      "category"        : "other",
+      "material"        : "fruit",
+      "color"           : "green",
+      "symbol"          : ".",
+      "use_action"      : "SEED",
+      "weight"          : 1,
+      "volume"          : 1,
+      "stack_size"      : 100,
+      "charges"         : 1,
+      "fun"             : 0,
+      "price"           : 100,
+      "seed_data"       : {
+                            "plant_name": "石炭",
+                            "fruit": "coal_lump",
+                            "byproducts": [ "withered" ],
+                            "grow"      : 91
+                          }
+  },{
+      "type"            : "COMESTIBLE",
+      "id"              : "mf_seed_sulfur",
+      "name"            : "種(硫黄)",
+      "description"     : "どういうわけか硫黄が実る作物の種です。成長したら硫黄が収穫できます。",
+      "category"        : "other",
+      "material"        : "fruit",
+      "color"           : "green",
+      "symbol"          : ".",
+      "use_action"      : "SEED",
+      "weight"          : 1,
+      "volume"          : 1,
+      "stack_size"      : 100,
+      "charges"         : 1,
+      "fun"             : 0,
+      "price"           : 100,
+      "seed_data"       : {
+                            "plant_name": "硝石",
+                            "fruit": "chunk_sulfur",
+                            "byproducts": [ "withered" ],
+                            "grow"      : 91
+                          }
+  },{
+      "type"            : "COMESTIBLE",
+      "id"              : "mf_seed_tin",
+      "name"            : "種(錫)",
+      "description"     : "どういうわけか錫が実る作物の種です。成長したら錫が収穫できます。",
+      "category"        : "other",
+      "material"        : "fruit",
+      "color"           : "green",
+      "symbol"          : ".",
+      "use_action"      : "SEED",
+      "weight"          : 1,
+      "volume"          : 1,
+      "stack_size"      : 100,
+      "charges"         : 1,
+      "fun"             : 0,
+      "price"           : 100,
+      "seed_data"       : {
+                            "plant_name": "錫",
+                            "fruit": "tin",
+                            "byproducts": [ "withered" ],
+                            "grow"      : 91
+                          }
+  },{
+      "type"            : "COMESTIBLE",
+      "id"              : "mf_seed_diamond",
+      "name"            : "種(ダイヤモンド)",
+      "description"     : "どういうわけかダイヤモンドが実る作物の種です。成長したらダイヤモンドが収穫できます。",
+      "category"        : "other",
+      "material"        : "fruit",
+      "color"           : "green",
+      "symbol"          : ".",
+      "use_action"      : "SEED",
+      "weight"          : 1,
+      "volume"          : 1,
+      "stack_size"      : 100,
+      "charges"         : 1,
+      "fun"             : 0,
+      "price"           : 100,
+      "seed_data"       : {
+                            "plant_name": "ダイヤモンド",
+                            "fruit": "diamond",
+                            "byproducts": [ "withered" ],
+                            "grow"      : 91
+                          }
+  },{
+      "type"            : "COMESTIBLE",
+      "id"              : "mf_seed_gunpowder",
+      "name"            : "種(火薬)",
+      "description"     : "どういうわけか火薬が実る作物の種です。成長したら火薬が収穫できます。",
+      "category"        : "other",
+      "material"        : "fruit",
+      "color"           : "green",
+      "symbol"          : ".",
+      "use_action"      : "SEED",
+      "weight"          : 1,
+      "volume"          : 1,
+      "stack_size"      : 100,
+      "charges"         : 1,
+      "fun"             : 0,
+      "price"           : 100,
+      "seed_data"       : {
+                            "plant_name": "火薬",
+                            "fruit": "gunpowder",
+                            "byproducts": [ "gunpowder" ],
+                            "grow"      : 91
+                          }
+  },{
+      "type"            : "COMESTIBLE",
+      "id"              : "mf_seed_chromium_oxide",
+      "name"            : "種(酸化クロム)",
+      "description"     : "どういうわけか酸化クロムが実る作物の種です。成長したら酸化クロムが収穫できます。",
+      "category"        : "other",
+      "material"        : "fruit",
+      "color"           : "green",
+      "symbol"          : ".",
+      "use_action"      : "SEED",
+      "weight"          : 1,
+      "volume"          : 1,
+      "stack_size"      : 100,
+      "charges"         : 1,
+      "fun"             : 0,
+      "price"           : 100,
+      "seed_data"       : {
+                            "plant_name": "酸化クロム",
+                            "fruit": "chem_chromium_oxide",
+                            "byproducts": [ "withered" ],
+                            "grow"      : 91
+                          }
+  },{
+      "type"            : "COMESTIBLE",
+      "id"              : "mf_seed_chem_hexamine",
+      "name"            : "種(ヘキサミン)",
+      "description"     : "どういうわけかヘキサミンが実る作物の種です。成長したら酸化クロムが収穫できます。",
+      "category"        : "other",
+      "material"        : "fruit",
+      "color"           : "green",
+      "symbol"          : ".",
+      "use_action"      : "SEED",
+      "weight"          : 1,
+      "volume"          : 1,
+      "stack_size"      : 100,
+      "charges"         : 1,
+      "fun"             : 0,
+      "price"           : 100,
+      "seed_data"       : {
+                            "plant_name": "ヘキサミン",
+                            "fruit": "chem_hexamine",
+                            "byproducts": [ "withered" ],
+                            "grow"      : 91
+                          }
+  },{
+      "type"            : "COMESTIBLE",
+      "id"              : "mf_seed_chem_zinc_powder",
+      "name"            : "種(亜鉛)",
+      "description"     : "どういうわけか亜鉛が実る作物の種です。成長したら酸化クロムが収穫できます。",
+      "category"        : "other",
+      "material"        : "fruit",
+      "color"           : "green",
+      "symbol"          : ".",
+      "use_action"      : "SEED",
+      "weight"          : 1,
+      "volume"          : 1,
+      "stack_size"      : 100,
+      "charges"         : 1,
+      "fun"             : 0,
+      "price"           : 100,
+      "seed_data"       : {
+                            "plant_name": "亜鉛",
+                            "fruit": "mf_seed_chem_zinc_powder",
+                            "byproducts": [ "withered" ],
+                            "grow"      : 91
+                          }
+  },{
+      "type"            : "COMESTIBLE",
+      "id"              : "mf_seed_magnesium",
+      "name"            : "種(マグネシウム)",
+      "description"     : "どういうわけかマグネシウムが実る作物の種です。成長したらマグネシウムが収穫できます。",
+      "category"        : "other",
+      "material"        : "fruit",
+      "color"           : "green",
+      "symbol"          : ".",
+      "use_action"      : "SEED",
+      "weight"          : 1,
+      "volume"          : 1,
+      "stack_size"      : 100,
+      "charges"         : 1,
+      "fun"             : 0,
+      "price"           : 100,
+      "seed_data"       : {
+                            "plant_name": "マグネシウム",
+                            "fruit": "magnesium",
+                            "byproducts": [ "magnesium" ],
+                            "grow"      : 91 
+                          }
+  }
+]

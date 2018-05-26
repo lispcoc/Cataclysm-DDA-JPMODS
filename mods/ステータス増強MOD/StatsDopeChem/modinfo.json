@@ -1,0 +1,11 @@
+[
+  {
+    "type": "MOD_INFO",
+    "ident": "StatsDopeChems",
+    "name": "追加 - ステータス増強",
+    "authors": [ "" ],
+    "description": "ステータスを増強できる(かもしれない)薬品類の追加と一部変異の改変",
+    "category": "rebalance",
+    "dependencies": [ "dda" ]
+  }
+]

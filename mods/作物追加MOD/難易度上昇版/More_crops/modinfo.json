@@ -1,0 +1,10 @@
+ {
+       "type": "MOD_INFO",
+       "mod_type"    : "SUPPLEMENTAL",
+       "ident"       : "More_crops",
+       "name"        : "追加 - 便利作物",
+       "description" : "便利なアイテムが取れる作物を追加します",
+       "category"    : "buildings",
+       "dependencies": [ "dda" ],
+       "path"        : ""
+   }

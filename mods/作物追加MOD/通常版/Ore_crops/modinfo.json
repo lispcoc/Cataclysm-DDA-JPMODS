@@ -1,0 +1,10 @@
+ {
+       "type": "MOD_INFO",
+       "mod_type"    : "SUPPLEMENTAL",
+       "ident"       : "Ore_crops",
+       "name"        : "追加 - 鉱物作物",
+       "description" : "鉱物が取れる作物を追加します",
+       "category"    : "buildings",
+       "dependencies": [ "dda" ],
+       "path"        : ""
+   }

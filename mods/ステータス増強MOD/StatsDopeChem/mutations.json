@@ -1,0 +1,47 @@
+[
+  {
+        "type" : "mutation",
+        "id" : "STR_ALPHA",
+        "name" : "Prime Strength",
+        "points" : 6,
+        "description" : "Your muscles are perfectly developed.",
+        "valid" : false,
+        "purifiable": false,
+        "prereqs" : ["STR_UP_2"],
+        "threshreq" : ["THRESH_ALPHA"],
+        "category" : ["MUTCAT_ALPHA"]
+    },{
+        "type" : "mutation",
+        "id" : "DEX_ALPHA",
+        "name" : "Prime Dexterity",
+        "points" : 6,
+        "description" : "You're perfectly coordinated.",
+        "valid" : false,
+        "purifiable": false,
+        "prereqs" : ["DEX_UP"],
+        "threshreq" : ["THRESH_ALPHA"],
+        "category" : ["MUTCAT_ALPHA"]
+    },{
+        "type" : "mutation",
+        "id" : "INT_ALPHA",
+        "name" : "Prime Intelligence",
+        "points" : 6,
+        "description" : "You understand almost everything about which you think, with minimal effort.",
+        "valid" : false,
+        "purifiable": false,
+        "prereqs" : ["INT_UP"],
+        "threshreq" : ["THRESH_ALPHA"],
+        "category" : ["MUTCAT_ALPHA"]
+    },{
+        "type" : "mutation",
+        "id" : "PER_ALPHA",
+        "name" : "Prime Perception",
+        "points" : 6,
+        "description" : "Your senses are keenly honed.",
+        "valid" : false,
+        "purifiable": false,
+        "prereqs" : ["PER_UP_2"],
+        "threshreq" : ["THRESH_ALPHA"],
+        "category" : ["MUTCAT_ALPHA"]
+    }
+]

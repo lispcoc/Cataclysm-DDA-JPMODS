@@ -1,0 +1,10 @@
+ {
+       "type": "MOD_INFO",
+       "mod_type"    : "SUPPLEMENTAL",
+       "ident"       : "Food_crops",
+       "name"        : "追加 - 食物作物",
+       "description" : "食料が取れる作物を追加します",
+       "category"    : "buildings",
+       "dependencies": [ "dda" ],
+       "path"        : ""
+   }
