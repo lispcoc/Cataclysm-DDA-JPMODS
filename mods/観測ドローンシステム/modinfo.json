@@ -1,0 +1,9 @@
+   {
+       "type": "MOD_INFO",
+       "mod_type": "SUPPLEMENTAL",
+       "ident": "dronesystem",
+       "name": "観測ドローンシステム",
+       "author": "SCAREDGAY",
+       "description": "周囲の地形を明らかにする観測ドローンシステムを追加します。",
+       "path": ""
+   }

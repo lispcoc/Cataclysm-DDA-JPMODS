@@ -26,7 +26,12 @@ MODの導入・ご使用は自己責任でお願いします。不具合が発�
 ＠の溜まり場II Cataclysmスレ https://jbbs.shitaraba.net/game/9358/ にて報告するか、本リポジトリにIssueを上げてくださるようお願いします。<br>
 
 ### MOD作者様一覧
-調査中。<br>
+- Cataclysmスレ 65日目 >>702氏 (https://ux.getuploader.com/cdda/)
+    - サバイバーバール
+    - 観測ドローンシステム
+    - 銃器エンジョイMOD
+
+ほか調査中。<br>
 
 ### ライセンス
 

@@ -1,0 +1,104 @@
+[
+
+ {
+  "type" : "recipe",
+  "result": "camdrone",
+  "category": "CC_ELECTRONIC",
+  "subcategory": "CSC_ELECTRONIC_COMPONENTS",
+  "skill_used": "electronics",
+  "skills_required": [ [ "computer", 4 ], [ "mechanics", 4 ] ],
+  "difficulty": 6,
+  "time": 60000,
+  "autolearn": [ [ "electronics", 6 ] ],
+  "book_learn": [ [ "manual_electronics", 2 ] , [ "textbook_electronics", 2 ] , [ "advanced_electronics", 1 ] ],
+  "qualities":[
+    { "id" : "HAMMER" , "level" : 3 },
+    { "id" : "SCREW" , "level" : 1 },
+    { "id" : "SAW_M_FINE" , "level" : 1 },
+    { "id" : "WRENCH" , "level" : 1 }
+                ],
+  "tools": [
+    [ [ "soldering_iron", 30 ], [ "toolset", 20 ] ],
+    [ [ "mold_plastic", -1 ] ]
+            ],
+  "components": [
+    [ [ "cable", 28 ] ],
+    [ [ "plastic_chunk", 16 ] ],
+    [ [ "scrap", 8 ] ],
+    [ [ "motor_small", 4 ] ],
+    [ [ "plut_cell", 3 ] ],
+    [ [ "pipe", 3 ] ],
+    [ [ "e_scrap", 3 ] ],
+    [ [ "omnicamera", 1 ], [ "camera_pro", 1 ] ],
+    [ [ "processor", 1 ] ],
+    [ [ "RAM", 1 ] ],
+    [ [ "small_storage_battery", 1 ] ],
+    [ [ "power_supply", 1 ] ],
+    [ [ "amplifier", 1 ] ],
+    [ [ "receiver", 1 ] ],
+    [ [ "antenna", 1 ] ],
+    [ [ "small_lcd_screen", 1 ] ],
+    [ [ "mobile_memory_card", 1 ] ]
+  ]
+ },
+
+ {
+  "type" : "recipe",
+  "result": "camdrone_system",
+  "category": "CC_ELECTRONIC",
+  "subcategory": "CSC_ELECTRONIC_TOOLS",
+  "skill_used": "electronics",
+  "skills_required": [ "computer", 4 ],
+  "difficulty": 6,
+  "time": 30000,
+  "autolearn": [ [ "electronics", 6 ] ],
+  "book_learn": [ [ "manual_electronics", 2 ] , [ "textbook_electronics", 2 ] , [ "advanced_electronics", 1 ] ],
+  "qualities":[
+    { "id" : "SCREW" , "level" : 1 },
+    { "id" : "WRENCH" , "level" : 1 },
+    { "id" : "SEW", "level": 1 } 
+                ],
+  "tools": [
+    [ [ "soldering_iron", 20 ], [ "toolset", 10 ] ],
+    [ [ "mold_plastic", -1 ] ]
+            ],
+  "components": [
+    [ [ "cable", 8 ] ],  
+    [ [ "plastic_chunk", 4 ] ],
+    [ [ "camdrone", 1 ] ],
+    [ [ "radiocontrol", 1 ] ],
+    [ [ "eink_tablet_pc", 1 ], [ "laptop" , 1 ] ],
+    [ [ "backpack", 1 ] ]
+  ]
+ },
+
+ {
+  "type" : "recipe",
+  "result": "camdrone_system_adv",
+  "category": "CC_ELECTRONIC",
+  "subcategory": "CSC_ELECTRONIC_TOOLS",
+  "skill_used": "electronics",
+  "difficulty": 8,
+  "time": 30000,
+  "autolearn": [ [ "electronics", 8 ] ],
+  "qualities":[
+    { "id" : "HAMMER" , "level" : 3 },
+    { "id" : "SCREW" , "level" : 1 },
+    { "id" : "SAW_M_FINE" , "level" : 1 },
+    { "id" : "WRENCH" , "level" : 1 },
+    { "id" : "SEW", "level": 1 } 
+                ],
+  "tools": [
+    [
+      [ "soldering_iron", 30 ],
+      [ "toolset", 15 ]
+    ]
+  ],
+  "components": [
+    [ [ "camdrone_system", 1 ] ],
+    [ [ "binoculars", 1 ], [ "survivor_scope", 1 ] ],
+    [ [ "directional_antenna", 1 ] ]
+                      ]
+ }
+
+]

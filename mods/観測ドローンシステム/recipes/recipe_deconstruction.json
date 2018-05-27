@@ -1,0 +1,38 @@
+[
+
+  {
+    "result": "omnicamera",
+    "type": "uncraft",
+    "time": 10000,
+    "qualities": [ { "id": "SCREW", "level": 1 } ],
+    "skill_used": "electronics",
+    "difficulty": 4,
+    "tools": [ [ [ "soldering_iron", 15 ], [ "toolset", 5 ] ] ],
+    "components": [
+    [ [ "lens", 4 ] ],
+    [ [ "e_scrap", 10 ] ],
+    [ [ "amplifier", 4 ] ],
+    [ [ "cable", 20 ] ],
+    [ [ "plastic_chunk", 5 ] ]
+                        ]
+  },
+
+  {
+    "result": "camdrone_system",
+    "type": "uncraft",
+    "time": 5000,
+    "skill_used": "electronics",
+    "difficulty": 4,
+    "components": [ [ [ "camdrone_system", 1 ] ] ]
+  },
+
+  {
+    "result": "camdrone_system_adv",
+    "type": "uncraft",
+    "time": 5000,
+    "skill_used": "electronics",
+    "difficulty": 4,
+    "components": [ [ [ "camdrone_system_adv", 1 ] ] ]
+  }
+
+]
