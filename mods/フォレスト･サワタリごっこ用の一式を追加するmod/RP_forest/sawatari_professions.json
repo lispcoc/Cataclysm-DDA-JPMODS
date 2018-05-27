@@ -1,0 +1,62 @@
+[
+    {
+        "id" : "RP_SURVIVOR_DOJO_MASTER",
+        "type" : "mutation",
+        "name" : "サバイバー道場創始者",
+        "points" : 0,
+        "description" : "狂った脳が生み出した妄想に取り付かれた狂人ですが、狂人ゆえの身体能力と妄想が組み合わされた結果忍術と同等の技術を身に付けてしまいました。援軍が来るまで門下生(存在すれば)と共に生き抜きましょう。サイゴン！",
+        "initial_ma_styles" : [ "style_ninjutsu" ],
+        "valid": false,
+        "purifiable": false,
+        "profession": true
+    },
+    {
+        "type": "profession",
+        "ident": "crazy_labtech",
+        "name": "狂った研究者",
+        "description": "元々そのような資質があったのか、はたまた非人道的な研究から来るストレスに耐え切れなかったのか。理由はどうあれ大変動が最後の切欠となって発狂し「ベトナム戦争の真っ只中に取り残された忍者」と言う尋常でない妄想を抱いてしまった研究者です。援軍が来るまでナムの地獄でサヴァイヴするのだ！ジェロニモ！",
+        "points": 0,
+        "traits": [ "RP_SURVIVOR_DOJO_MASTER", "SCHIZOPHRENIC" ],
+        "skills": [
+            {
+                "level": 2,
+                "name": "computer"
+            },
+            {
+                "level": 2,
+                "name": "cooking"
+            },
+            {
+                "level": 2,
+                "name": "electronics"
+            },
+            {
+                "level": 2,
+                "name": "mechanics"
+            },
+            {
+                "level": 2,
+                "name": "survival"
+            }
+        ],
+        "items": {
+            "both": [
+                "dress_shirt",
+                "pants",
+                "socks",
+                "boots",
+                "coat_lab",
+                "gloves_rubber",
+                "glasses_safety",
+                "chemistry_set"
+            ],
+            "male": [
+                "briefs"
+            ],
+            "female": [
+                "bra",
+                "panties"
+            ]
+        }
+    }
+]

@@ -1,0 +1,55 @@
+[
+  {
+        "type":"GENERIC",
+        "id": "RP_bio_bamboo",
+        "symbol": "/",
+        "color": "green",
+        "name": "バイオ竹竿",
+        "description": "遺伝子操作によって生み出された、鋼鉄をも凌ぐ脅威の強度を誇るとされるバイオ竹を切断して加工した竿です。開発されたのがごく最近で強度がありすぎて加工し辛いため、一般には殆ど出回っていません。このままでも武器として使えなくはありませんが、強靭な繊維に切れ目を入れる角度を始めとする正しいバンブー知識を持つサバイバーならより有効な武器の材料として活用できるでしょう。",
+        "price": 750,
+        "material": [ "wood" ],
+        "weight": 1000,
+        "volume": 10,
+        "bashing": 8,
+        "to_hit": -2,
+        "flags" : ["DURABLE_MELEE", "REACH_ATTACK"],
+        "techniques" : ["WBLOCK_1"]
+  },
+  {
+        "type":"GENERIC",
+        "id": "RP_bamboo_spear",
+        "symbol": "/",
+        "color": "green",
+        "name": "バイオ竹槍",
+        "description": "バイオ竹竿の先端を斜めに切り落として作った竹槍です。製法はごく単純ながら原料が優秀である為、軽量さの割に鋼鉄製の槍と比較しても遜色ない貫通力を持つ優れた武器です。",
+        "price": 7500,
+        "material": [ "wood" ],
+        "weight": 940,
+        "volume": 10,
+        "bashing": 4,
+        "cutting": 26,
+        "flags" : ["DURABLE_MELEE", "RAPID", "SPEAR", "REACH_ATTACK"],
+        "techniques" : ["WBLOCK_1", "IMPALE"]
+  },
+  {
+        "type":"GENERIC",
+        "id": "RP_bamboo_javelin",
+        "symbol": "/",
+        "color": "green",
+        "name": "バイオ竹ジャベリン",
+        "description": "バイオ竹竿に手を加え、投擲に適するよう慎重に調整して作った投げ槍です。製法は単純ながら原料が優秀である為、軽量さの割に鋼鉄製の投げ槍と比較しても遜色ない貫通力を持つ優れた武器です。",
+        "price": 8000,
+        "material": [ "wood" ],
+        "weight": 720,
+        "volume": 4,
+        "bashing": 5,
+        "cutting": 17,
+        "to_hit": 2,
+        "thrown_damage" : [
+            { "damage_type": "bash", "amount": 5 },
+            { "damage_type": "stab", "amount": 17 }
+        ],
+        "flags" : ["DURABLE_MELEE", "RAPID", "SPEAR"],
+        "techniques" : ["WBLOCK_1"]
+  }
+]

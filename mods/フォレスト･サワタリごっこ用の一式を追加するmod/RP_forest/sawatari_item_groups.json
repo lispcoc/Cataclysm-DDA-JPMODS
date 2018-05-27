@@ -1,0 +1,69 @@
+[
+  {
+    "type" : "item_group",
+    "id" : "livingroom",
+    "items":[
+      ["RP_furoshiki", 1],
+      ["RP_non_la", 3]
+   ]
+  },
+  {
+    "type" : "item_group",
+    "id" : "kitchen",
+    "items":[
+      ["RP_curry_saba", 15]
+   ]
+  },
+  {
+    "type" : "item_group",
+    "id" : "cannedfood",
+    "items":[
+      ["RP_curry_saba", 15]
+   ]
+  },
+  {
+    "type" : "item_group",
+    "id" : "dresser",
+    "items":[
+      ["RP_furoshiki", 3],
+      ["RP_non_la", 5]
+   ]
+  },
+  {
+    "type"  : "item_group",
+    "id"    : "hardware_bulk",
+    "items" : [
+      ["RP_bio_bamboo", 10]
+   ]
+  },
+  {
+    "type" : "item_group",
+    "id" : "hatstore_hats",
+    "items":[
+      ["RP_non_la", 7]
+   ]
+  },
+  {
+    "type"  : "item_group",
+    "id"    : "pawn",
+    "items" : [
+      ["RP_bio_bamboo", 1]
+   ]
+  },
+  {
+    "type" : "item_group",
+    "id" : "shelter",
+    "items":[
+      ["RP_curry_saba", 15],
+      ["RP_furoshiki", 3],
+      ["RP_non_la", 5]
+   ]
+  },
+  {
+    "type" : "item_group",
+    "id" : "chem_lab",
+    "items":[
+      ["RP_bio_bamboo", 10]
+   ]
+  }
+]

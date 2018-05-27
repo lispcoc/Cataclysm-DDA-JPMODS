@@ -1,0 +1,24 @@
+[
+  {
+    "type" : "COMESTIBLE",
+    "id" : "RP_curry_saba",
+    "name" : "鯖カレー",
+    "weight" : 174,
+    "color" : "red",
+    "spoils_in" : 50,
+    "container" : "can_food",
+    "comestible_type" : "DRINK",
+    "symbol" : "~",
+    "quench" : -3,
+    "healthy" : 1,
+    "nutrition" : 38,
+    "description" : "肉...ではなく鯖と香辛料をたっぷりと使ったスパイシーで美味しい(?)料理です。まったく、なんでこんな組み合わせ...意外に美味いぞ、これ。辛さのせいで食べると喉が渇きます。",
+    "price" : 1000,
+    "material" : ["flesh", "veggy"],
+    "volume" : 1,
+    "phase" : "liquid",
+    "charges" : 2,
+    "flags" : ["EATEN_HOT", "USE_EAT_VERB"],
+    "fun" : 6
+  }
+]

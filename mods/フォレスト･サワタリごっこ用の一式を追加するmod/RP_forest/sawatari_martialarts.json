@@ -1,0 +1,24 @@
+[
+  {
+    "copy-from": "style_ninjutsu",
+    "type":"martial_art",
+    "id" : "style_ninjutsu",
+    "extend": {
+      "weapons" : [
+      "firemachete_off",
+      "firemachete_on",
+      "knife_combat",
+      "knife_rm42",
+      "knife_trench",
+      "kukri",
+      "machete",
+      "makeshift_machete",
+      "survivor_machete",
+      "tanto",
+      "RP_bamboo_spear",
+      "RP_bamboo_javelin",
+      "RP_survivor_non_la"
+    ]
+   }
+  }
+]

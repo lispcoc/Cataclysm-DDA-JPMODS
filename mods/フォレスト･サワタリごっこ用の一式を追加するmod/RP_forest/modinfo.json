@@ -1,0 +1,11 @@
+[
+  {
+    "type": "MOD_INFO",
+    "ident": "RP_forest_sawatari",
+    "name": "追加 - サバイバー道場",
+    "authors": [ "lesser muscle cultist" ],
+    "description": "サワタリの大将に憧れる貴方に贈るロールプレイ用セットです。単体でも動作しますが、忍者modとの併用を推奨。注意:併用する際は本modの方を後に入れてください。",
+    "category": "misc_additions",
+    "dependencies": [ "dda" ]
+  }
+]

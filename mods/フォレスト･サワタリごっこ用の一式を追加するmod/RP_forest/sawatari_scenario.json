@@ -1,0 +1,8 @@
+[
+  {
+    "copy-from": "lab_chal",
+    "type":"scenario",
+    "ident" : "lab_chal",
+    "extend": { "professions" : ["crazy_labtech"] }
+  }
+]
