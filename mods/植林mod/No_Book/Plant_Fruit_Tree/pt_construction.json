@@ -1,0 +1,167 @@
+[
+  {
+    "type": "construction",
+    "description": "リンゴの苗木を植える",
+    "category": "FARM_WOOD",
+    "required_skills": [ [ "survival", 2 ] ],
+    "time": 30,
+    "qualities": [ [ { "id": "DIG", "level": 1 } ] ],
+    "components": [ [ [ "pt_seedling_apple", 1 ] ] ],
+    "pre_flags": "DIGGABLE",
+    "post_terrain": "t_tree_apple"
+  },
+  {
+    "type": "construction",
+    "description": "洋ナシの苗木を植える",
+    "category": "FARM_WOOD",
+    "required_skills" : [ [ "survival", 2 ] ],
+    "time": 30,
+    "qualities": [ [ { "id": "DIG", "level": 1 } ] ],
+    "components": [ [ [ "pt_seedling_pear", 1 ] ] ],
+    "pre_flags": "DIGGABLE",
+    "post_terrain": "t_tree_pear"
+  },
+  {
+    "type": "construction",
+    "description": "サクランボの苗木を植える",
+    "category": "FARM_WOOD",
+    "required_skills" : [ [ "survival", 2 ] ],
+    "time": 30,
+    "qualities": [ [ { "id": "DIG", "level": 1 } ] ],
+    "components": [ [ [ "pt_seedling_cherry", 1 ] ] ],
+    "pre_flags": "DIGGABLE",
+    "post_terrain": "t_tree_cherry"
+  },
+  {
+    "type": "construction",
+    "description": "モモの苗木を植える",
+    "category": "FARM_WOOD",
+    "required_skills" : [ [ "survival", 2 ] ],
+    "time": 30,
+    "qualities": [ [ { "id": "DIG", "level": 1 } ] ],
+    "components": [ [ [ "pt_seedling_peach", 1 ] ] ],
+    "pre_flags": "DIGGABLE",
+    "post_terrain": "t_tree_peach"
+  },
+  {
+    "type": "construction",
+    "description": "アンズの苗木を植える",
+    "category": "FARM_WOOD",
+    "required_skills" : [ [ "survival", 2 ] ],
+    "time": 30,
+    "qualities": [ [ { "id": "DIG", "level": 1 } ] ],
+    "components": [ [ [ "pt_seedling_apricot", 1 ] ] ],
+    "pre_flags": "DIGGABLE",
+    "post_terrain": "t_tree_apricot"
+  },
+  {
+    "type": "construction",
+    "description": "スモモの苗木を植える",
+    "category": "FARM_WOOD",
+    "required_skills" : [ [ "survival", 2 ] ],
+    "time": 30,
+    "qualities": [ [ { "id": "DIG", "level": 1 } ] ],
+    "components": [ [ [ "pt_seedling_plum", 1 ] ] ],
+    "pre_flags": "DIGGABLE",
+    "post_terrain": "t_tree_plum"
+  },
+  {
+    "type": "construction",
+    "description": "レモンの苗木を植える",
+    "category": "FARM_WOOD",
+    "required_skills" : [ [ "survival", 2 ] ],
+    "time": 30,
+    "qualities": [ [ { "id": "DIG", "level": 1 } ] ],
+    "components": [ [ [ "pt_seedling_lemon", 1 ] ] ],
+    "pre_flags": "DIGGABLE",
+    "post_terrain": "t_tree_lemon"
+  },
+  {
+    "type": "construction",
+    "description": "バナナの苗木を植える",
+    "category": "FARM_WOOD",
+    "required_skills" : [ [ "survival", 2 ] ],
+    "time": 30,
+    "qualities": [ [ { "id": "DIG", "level": 1 } ] ],
+    "components": [ [ [ "pt_seedling_banana", 1 ] ] ],
+    "pre_flags": "DIGGABLE",
+    "post_terrain": "t_tree_banana"
+  },
+  {
+    "type": "construction",
+    "description": "マンゴーの苗木を植える",
+    "category": "FARM_WOOD",
+    "required_skills" : [ [ "survival", 2 ] ],
+    "time": 30,
+    "qualities": [ [ { "id": "DIG", "level": 1 } ] ],
+    "components": [ [ [ "pt_seedling_mango", 1 ] ] ],
+    "pre_flags": "DIGGABLE",
+    "post_terrain": "t_tree_mango"
+  },
+  {
+    "type": "construction",
+    "description": "ブドウの苗木を植える",
+    "category": "FARM_WOOD",
+    "required_skills" : [ [ "survival", 2 ] ],
+    "time": 30,
+    "qualities": [ [ { "id": "DIG", "level": 1 } ] ],
+    "components": [ [ [ "pt_seedling_grape", 1 ] ] ],
+    "pre_flags": "DIGGABLE",
+    "post_terrain": "t_tree_grape"
+  },
+  {
+    "type": "construction",
+    "description": "グレープフルーツの苗木を植える",
+    "category": "FARM_WOOD",
+    "required_skills" : [ [ "survival", 2 ] ],
+    "time": 30,
+    "qualities": [ [ { "id": "DIG", "level": 1 } ] ],
+    "components": [ [ [ "pt_seedling_grapefruit", 1 ] ] ],
+    "pre_flags": "DIGGABLE",
+    "post_terrain": "t_tree_grapefruit"
+  },
+  {
+    "type": "construction",
+    "description": "パパイヤの苗木を植える",
+    "category": "FARM_WOOD",
+    "required_skills" : [ [ "survival", 2 ] ],
+    "time": 30,
+    "qualities": [ [ { "id": "DIG", "level": 1 } ] ],
+    "components": [ [ [ "pt_seedling_papaya", 1 ] ] ],
+    "pre_flags": "DIGGABLE",
+    "post_terrain": "t_tree_papaya"
+  },
+  {
+    "type": "construction",
+    "description": "オレンジの苗木を植える",
+    "category": "FARM_WOOD",
+    "required_skills" : [ [ "survival", 2 ] ],
+    "time": 30,
+    "qualities": [ [ { "id": "DIG", "level": 1 } ] ],
+    "components": [ [ [ "pt_seedling_orange", 1 ] ] ],
+    "pre_flags": "DIGGABLE",
+    "post_terrain": "t_tree_orange"
+  },
+  {
+    "type": "construction",
+    "description": "ザクロの苗木を植える",
+    "category": "FARM_WOOD",
+    "required_skills" : [ [ "survival", 2 ] ],
+    "time": 30,
+    "qualities": [ [ { "id": "DIG", "level": 1 } ] ],
+    "components": [ [ [ "pt_seedling_pomegranate", 1 ] ] ],
+    "pre_flags": "DIGGABLE",
+    "post_terrain": "t_tree_pomegranate"
+  },
+  {
+    "type": "construction",
+    "description": "ココナッツの苗木を植える",
+    "category": "FARM_WOOD",
+    "required_skills" : [ [ "survival", 2 ] ],
+    "time": 30,
+    "qualities": [ [ { "id": "DIG", "level": 1 } ] ],
+    "components": [ [ [ "pt_seedling_coconut", 1 ] ] ],
+    "pre_flags": "DIGGABLE",
+    "post_terrain": "t_tree_coconut"
+  }
+]

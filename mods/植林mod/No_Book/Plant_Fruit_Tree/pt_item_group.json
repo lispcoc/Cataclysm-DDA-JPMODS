@@ -1,0 +1,23 @@
+[
+  {
+    "type": "item_group",
+    "id": "farming_seeds",
+    "items": [
+      ["pt_seed_apple", 60],
+      ["pt_seed_pear", 60],
+      ["pt_seed_cherry", 60],
+      ["pt_seed_peach", 60],
+      ["pt_seed_apricot", 60],
+      ["pt_seed_plum", 60],
+      ["pt_seed_lemon", 60],
+      ["pt_seed_banana", 60],
+      ["pt_seed_mango", 60],
+      ["pt_seed_grape", 60],
+      ["pt_seed_grapefruit", 60],
+      ["pt_seed_papaya", 60],
+      ["pt_seed_orange", 60],
+      ["pt_seed_pomegranate", 60],
+      ["pt_seed_coconut", 60]
+    ]
+  }
+]

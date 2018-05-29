@@ -1,0 +1,10 @@
+{
+    "type"        : "MOD_INFO",
+    "mod_type"    : "SUPPLEMENTAL",
+    "ident"       : "jpmod_plant_fruit_tree",
+    "name"        : "追加 - 植林(果樹)",
+    "author"      : "LISP (special thanks - ID:yvl7YYp2氏)",
+    "category"    : "buildings",
+    "description" : "苗木を植えて果樹を建設メニューから設置できるようにします。",
+    "path"        : ""
+}

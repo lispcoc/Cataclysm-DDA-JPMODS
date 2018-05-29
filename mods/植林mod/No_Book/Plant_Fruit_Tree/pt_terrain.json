@@ -1,0 +1,407 @@
+[
+  {
+    "type": "terrain",
+    "id": "t_tree_lemon",
+    "name": "レモンの木",
+    "symbol": "7",
+    "color": [ "light_green", "light_green", "red_green", "brown" ],
+    "move_cost": 0,
+    "flags": ["FLAMMABLE_ASH", "NOITEM", "SUPPORTS_ROOF", "TREE", "REDUCE_SCENT"],
+    "transforms_into": "t_tree_lemon_harvested",
+    "examine_action": "harvest_ter_nectar",
+    "harvest_by_season" : [
+      { "seasons": [ "summer" ], "entries": [ { "drop": "lemon", "base_num": [ 2, 5 ], "scaled_num": [ 0, 0.5 ] } ] }
+    ],
+    "bash": {
+      "str_min": 80, "str_max": 180,
+      "sound": "crunch!",
+      "sound_fail": "whack!",
+      "ter_set": "t_dirt",
+      "items": [
+        { "item": "stick", "count": [3, 10] },
+        { "item": "splinter", "count": [10, 25] }
+      ]
+    }
+  },
+  {
+    "type": "terrain",
+    "id": "t_tree_lemon_harvested",
+    "name": "レモンの木",
+    "symbol": "7",
+    "color": [ "light_green", "light_green", "red_green", "brown" ],
+    "move_cost": 0,
+    "flags": ["FLAMMABLE_ASH", "NOITEM", "SUPPORTS_ROOF", "TREE", "REDUCE_SCENT", "HARVESTED"],
+    "transforms_into": "t_tree_lemon",
+    "examine_action": "harvested_plant",
+    "bash": {
+      "str_min": 80, "str_max": 180,
+      "sound": "crunch!",
+      "sound_fail": "whack!",
+      "ter_set": "t_dirt",
+      "items": [
+        { "item": "stick", "count": [3, 10] },
+        { "item": "splinter", "count": [10, 25] }
+      ]
+    }
+  },
+  {
+    "type": "terrain",
+    "id": "t_tree_banana",
+    "name": "バナナの木",
+    "symbol": "7",
+    "color": [ "light_green", "light_green", "red_green", "brown" ],
+    "move_cost": 0,
+    "flags": ["FLAMMABLE_ASH", "NOITEM", "SUPPORTS_ROOF", "TREE", "REDUCE_SCENT"],
+    "transforms_into": "t_tree_banana_harvested",
+    "examine_action": "harvest_ter_nectar",
+    "harvest_by_season" : [
+      { "seasons": [ "summer" ], "entries": [ { "drop": "banana", "base_num": [ 2, 5 ], "scaled_num": [ 0, 0.5 ] } ] }
+    ],
+    "bash": {
+      "str_min": 80, "str_max": 180,
+      "sound": "crunch!",
+      "sound_fail": "whack!",
+      "ter_set": "t_dirt",
+      "items": [
+        { "item": "stick", "count": [3, 10] },
+        { "item": "splinter", "count": [10, 25] }
+      ]
+    }
+  },
+  {
+    "type": "terrain",
+    "id": "t_tree_banana_harvested",
+    "name": "バナナの木",
+    "symbol": "7",
+    "color": [ "light_green", "light_green", "red_green", "brown" ],
+    "move_cost": 0,
+    "flags": ["FLAMMABLE_ASH", "NOITEM", "SUPPORTS_ROOF", "TREE", "REDUCE_SCENT", "HARVESTED"],
+    "transforms_into": "t_tree_banana",
+    "examine_action": "harvested_plant",
+    "bash": {
+      "str_min": 80, "str_max": 180,
+      "sound": "crunch!",
+      "sound_fail": "whack!",
+      "ter_set": "t_dirt",
+      "items": [
+        { "item": "stick", "count": [3, 10] },
+        { "item": "splinter", "count": [10, 25] }
+      ]
+    }
+  },
+  {
+    "type": "terrain",
+    "id": "t_tree_mango",
+    "name": "マンゴーの木",
+    "symbol": "7",
+    "color": [ "light_green", "light_green", "red_green", "brown" ],
+    "move_cost": 0,
+    "flags": ["FLAMMABLE_ASH", "NOITEM", "SUPPORTS_ROOF", "TREE", "REDUCE_SCENT"],
+    "transforms_into": "t_tree_mango_harvested",
+    "examine_action": "harvest_ter_nectar",
+    "harvest_by_season" : [
+      { "seasons": [ "summer" ], "entries": [ { "drop": "mango", "base_num": [ 2, 5 ], "scaled_num": [ 0, 0.5 ] } ] }
+    ],
+    "bash": {
+      "str_min": 80, "str_max": 180,
+      "sound": "crunch!",
+      "sound_fail": "whack!",
+      "ter_set": "t_dirt",
+      "items": [
+        { "item": "stick", "count": [3, 10] },
+        { "item": "splinter", "count": [10, 25] }
+      ]
+    }
+  },
+  {
+    "type": "terrain",
+    "id": "t_tree_mango_harvested",
+    "name": "マンゴーの木",
+    "symbol": "7",
+    "color": [ "light_green", "light_green", "red_green", "brown" ],
+    "move_cost": 0,
+    "flags": ["FLAMMABLE_ASH", "NOITEM", "SUPPORTS_ROOF", "TREE", "REDUCE_SCENT", "HARVESTED"],
+    "transforms_into": "t_tree_mango",
+    "examine_action": "harvested_plant",
+    "bash": {
+      "str_min": 80, "str_max": 180,
+      "sound": "crunch!",
+      "sound_fail": "whack!",
+      "ter_set": "t_dirt",
+      "items": [
+        { "item": "stick", "count": [3, 10] },
+        { "item": "splinter", "count": [10, 25] }
+      ]
+    }
+  },
+  {
+    "type": "terrain",
+    "id": "t_tree_grape",
+    "name": "ブドウの木",
+    "symbol": "7",
+    "color": [ "light_green", "light_green", "red_green", "brown" ],
+    "move_cost": 0,
+    "flags": ["FLAMMABLE_ASH", "NOITEM", "SUPPORTS_ROOF", "TREE", "REDUCE_SCENT"],
+    "transforms_into": "t_tree_grape_harvested",
+    "examine_action": "harvest_ter_nectar",
+    "harvest_by_season" : [
+      { "seasons": [ "summer" ], "entries": [ { "drop": "grapes", "base_num": [ 2, 5 ], "scaled_num": [ 0, 0.5 ] } ] }
+    ],
+    "bash": {
+      "str_min": 80, "str_max": 180,
+      "sound": "crunch!",
+      "sound_fail": "whack!",
+      "ter_set": "t_dirt",
+      "items": [
+        { "item": "stick", "count": [3, 10] },
+        { "item": "splinter", "count": [10, 25] }
+      ]
+    }
+  },
+  {
+    "type": "terrain",
+    "id": "t_tree_grape_harvested",
+    "name": "ブドウの木",
+    "symbol": "7",
+    "color": [ "light_green", "light_green", "red_green", "brown" ],
+    "move_cost": 0,
+    "flags": ["FLAMMABLE_ASH", "NOITEM", "SUPPORTS_ROOF", "TREE", "REDUCE_SCENT", "HARVESTED"],
+    "transforms_into": "t_tree_grape",
+    "examine_action": "harvested_plant",
+    "bash": {
+      "str_min": 80, "str_max": 180,
+      "sound": "crunch!",
+      "sound_fail": "whack!",
+      "ter_set": "t_dirt",
+      "items": [
+        { "item": "stick", "count": [3, 10] },
+        { "item": "splinter", "count": [10, 25] }
+      ]
+    }
+  },
+  {
+    "type": "terrain",
+    "id": "t_tree_grapefruit",
+    "name": "グレープフルーツの木",
+    "symbol": "7",
+    "color": [ "light_green", "light_green", "red_green", "brown" ],
+    "move_cost": 0,
+    "flags": ["FLAMMABLE_ASH", "NOITEM", "SUPPORTS_ROOF", "TREE", "REDUCE_SCENT"],
+    "transforms_into": "t_tree_grapefruit_harvested",
+    "examine_action": "harvest_ter_nectar",
+    "harvest_by_season" : [
+      { "seasons": [ "autumn" ], "entries": [ { "drop": "grapefruit", "base_num": [ 2, 5 ], "scaled_num": [ 0, 0.5 ] } ] }
+    ],
+    "bash": {
+      "str_min": 80, "str_max": 180,
+      "sound": "crunch!",
+      "sound_fail": "whack!",
+      "ter_set": "t_dirt",
+      "items": [
+        { "item": "stick", "count": [3, 10] },
+        { "item": "splinter", "count": [10, 25] }
+      ]
+    }
+  },
+  {
+    "type": "terrain",
+    "id": "t_tree_grapefruit_harvested",
+    "name": "グレープフルーツの木",
+    "symbol": "7",
+    "color": [ "light_green", "light_green", "red_green", "brown" ],
+    "move_cost": 0,
+    "flags": ["FLAMMABLE_ASH", "NOITEM", "SUPPORTS_ROOF", "TREE", "REDUCE_SCENT", "HARVESTED"],
+    "transforms_into": "t_tree_grapefruit",
+    "examine_action": "harvested_plant",
+    "bash": {
+      "str_min": 80, "str_max": 180,
+      "sound": "crunch!",
+      "sound_fail": "whack!",
+      "ter_set": "t_dirt",
+      "items": [
+        { "item": "stick", "count": [3, 10] },
+        { "item": "splinter", "count": [10, 25] }
+      ]
+    }
+  },
+  {
+    "type": "terrain",
+    "id": "t_tree_papaya",
+    "name": "パパイヤの木",
+    "symbol": "7",
+    "color": [ "light_green", "light_green", "red_green", "brown" ],
+    "move_cost": 0,
+    "flags": ["FLAMMABLE_ASH", "NOITEM", "SUPPORTS_ROOF", "TREE", "REDUCE_SCENT"],
+    "transforms_into": "t_tree_papaya_harvested",
+    "examine_action": "harvest_ter_nectar",
+    "harvest_by_season" : [
+      { "seasons": [ "summer" ], "entries": [ { "drop": "papaya", "base_num": [ 2, 5 ], "scaled_num": [ 0, 0.5 ] } ] }
+    ],
+    "bash": {
+      "str_min": 80, "str_max": 180,
+      "sound": "crunch!",
+      "sound_fail": "whack!",
+      "ter_set": "t_dirt",
+      "items": [
+        { "item": "stick", "count": [3, 10] },
+        { "item": "splinter", "count": [10, 25] }
+      ]
+    }
+  },
+  {
+    "type": "terrain",
+    "id": "t_tree_papaya_harvested",
+    "name": "パパイヤの木",
+    "symbol": "7",
+    "color": [ "light_green", "light_green", "red_green", "brown" ],
+    "move_cost": 0,
+    "flags": ["FLAMMABLE_ASH", "NOITEM", "SUPPORTS_ROOF", "TREE", "REDUCE_SCENT", "HARVESTED"],
+    "transforms_into": "t_tree_papaya",
+    "examine_action": "harvested_plant",
+    "bash": {
+      "str_min": 80, "str_max": 180,
+      "sound": "crunch!",
+      "sound_fail": "whack!",
+      "ter_set": "t_dirt",
+      "items": [
+        { "item": "stick", "count": [3, 10] },
+        { "item": "splinter", "count": [10, 25] }
+      ]
+    }
+  },
+  {
+    "type": "terrain",
+    "id": "t_tree_orange",
+    "name": "オレンジの木",
+    "symbol": "7",
+    "color": [ "light_green", "light_green", "red_green", "brown" ],
+    "move_cost": 0,
+    "flags": ["FLAMMABLE_ASH", "NOITEM", "SUPPORTS_ROOF", "TREE", "REDUCE_SCENT"],
+    "transforms_into": "t_tree_orange_harvested",
+    "examine_action": "harvest_ter_nectar",
+    "harvest_by_season" : [
+      { "seasons": [ "autumn" ], "entries": [ { "drop": "orange", "base_num": [ 2, 5 ], "scaled_num": [ 0, 0.5 ] } ] }
+    ],
+    "bash": {
+      "str_min": 80, "str_max": 180,
+      "sound": "crunch!",
+      "sound_fail": "whack!",
+      "ter_set": "t_dirt",
+      "items": [
+        { "item": "stick", "count": [3, 10] },
+        { "item": "splinter", "count": [10, 25] }
+      ]
+    }
+  },
+  {
+    "type": "terrain",
+    "id": "t_tree_orange_harvested",
+    "name": "オレンジの木",
+    "symbol": "7",
+    "color": [ "light_green", "light_green", "red_green", "brown" ],
+    "move_cost": 0,
+    "flags": ["FLAMMABLE_ASH", "NOITEM", "SUPPORTS_ROOF", "TREE", "REDUCE_SCENT", "HARVESTED"],
+    "transforms_into": "t_tree_orange",
+    "examine_action": "harvested_plant",
+    "bash": {
+      "str_min": 80, "str_max": 180,
+      "sound": "crunch!",
+      "sound_fail": "whack!",
+      "ter_set": "t_dirt",
+      "items": [
+        { "item": "stick", "count": [3, 10] },
+        { "item": "splinter", "count": [10, 25] }
+      ]
+    }
+  },
+  {
+    "type": "terrain",
+    "id": "t_tree_pomegranate",
+    "name": "ザクロの木",
+    "symbol": "7",
+    "color": [ "light_green", "light_green", "red_green", "brown" ],
+    "move_cost": 0,
+    "flags": ["FLAMMABLE_ASH", "NOITEM", "SUPPORTS_ROOF", "TREE", "REDUCE_SCENT"],
+    "transforms_into": "t_tree_pomegranate_harvested",
+    "examine_action": "harvest_ter_nectar",
+    "harvest_by_season" : [
+      { "seasons": [ "autumn" ], "entries": [ { "drop": "pomegranate", "base_num": [ 2, 5 ], "scaled_num": [ 0, 0.5 ] } ] }
+    ],
+    "bash": {
+      "str_min": 80, "str_max": 180,
+      "sound": "crunch!",
+      "sound_fail": "whack!",
+      "ter_set": "t_dirt",
+      "items": [
+        { "item": "stick", "count": [3, 10] },
+        { "item": "splinter", "count": [10, 25] }
+      ]
+    }
+  },
+  {
+    "type": "terrain",
+    "id": "t_tree_pomegranate_harvested",
+    "name": "ザクロの木",
+    "symbol": "7",
+    "color": [ "light_green", "light_green", "red_green", "brown" ],
+    "move_cost": 0,
+    "flags": ["FLAMMABLE_ASH", "NOITEM", "SUPPORTS_ROOF", "TREE", "REDUCE_SCENT", "HARVESTED"],
+    "transforms_into": "t_tree_pomegranate",
+    "examine_action": "harvested_plant",
+    "bash": {
+      "str_min": 80, "str_max": 180,
+      "sound": "crunch!",
+      "sound_fail": "whack!",
+      "ter_set": "t_dirt",
+      "items": [
+        { "item": "stick", "count": [3, 10] },
+        { "item": "splinter", "count": [10, 25] }
+      ]
+    }
+  },
+  {
+    "type": "terrain",
+    "id": "t_tree_coconut",
+    "name": "ココナッツの木",
+    "symbol": "7",
+    "color": [ "light_green", "light_green", "red_green", "brown" ],
+    "move_cost": 0,
+    "flags": ["FLAMMABLE_ASH", "NOITEM", "SUPPORTS_ROOF", "TREE", "REDUCE_SCENT"],
+    "transforms_into": "t_tree_coconut_harvested",
+    "examine_action": "harvest_ter_nectar",
+    "harvest_by_season" : [
+      { "seasons": [ "summer" ], "entries": [ { "drop": "coconut", "base_num": [ 2, 5 ], "scaled_num": [ 0, 0.5 ] } ] }
+    ],
+    "bash": {
+      "str_min": 80, "str_max": 180,
+      "sound": "crunch!",
+      "sound_fail": "whack!",
+      "ter_set": "t_dirt",
+      "items": [
+        { "item": "stick", "count": [3, 10] },
+        { "item": "splinter", "count": [10, 25] }
+      ]
+    }
+  },
+  {
+    "type": "terrain",
+    "id": "t_tree_coconut_harvested",
+    "name": "ココナッツの木",
+    "symbol": "7",
+    "color": [ "light_green", "light_green", "red_green", "brown" ],
+    "move_cost": 0,
+    "flags": ["FLAMMABLE_ASH", "NOITEM", "SUPPORTS_ROOF", "TREE", "REDUCE_SCENT", "HARVESTED"],
+    "transforms_into": "t_tree_coconut",
+    "examine_action": "harvested_plant",
+    "bash": {
+      "str_min": 80, "str_max": 180,
+      "sound": "crunch!",
+      "sound_fail": "whack!",
+      "ter_set": "t_dirt",
+      "items": [
+        { "item": "stick", "count": [3, 10] },
+        { "item": "splinter", "count": [10, 25] }
+      ]
+    }
+  }
+]

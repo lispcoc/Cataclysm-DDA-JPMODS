@@ -1,0 +1,31 @@
+[
+  {
+    "abstract": "pt_seedling",
+    "type": "GENERIC",
+    "comestible_type": "OTHER",
+    "name": "seedlings",
+    "name_plural": "seedlings",
+    "volume": 5,
+    "weight": 1000,
+    "price": 100,
+    "material": ["fruit", "veggy"],
+    "symbol": "T",
+    "color": "green"
+  },
+  {
+    "id": "oak_seedling",
+    "copy-from": "pt_seedling",
+    "type": "GENERIC",
+    "name": "苗木(オーク)",
+    "name_plural": "苗木(オーク)",
+    "description": "オークの苗木です。植えたらオークの木になります。"
+  },
+  {
+    "id": "pine_seedling",
+    "copy-from": "pt_seedling",
+    "type": "GENERIC",
+    "name": "苗木(マツ)",
+    "name_plural": "苗木(マツ)",
+    "description": "マツの苗木です。植えたらマツの木になります。"
+  }
+]

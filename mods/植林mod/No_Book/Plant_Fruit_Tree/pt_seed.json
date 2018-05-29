@@ -1,0 +1,137 @@
+[
+  {
+    "id": "pt_seed_apple",
+    "copy-from": "seed_fruit",
+    "type": "COMESTIBLE",
+    "name": "種(リンゴ)",
+    "name_plural": "種(リンゴ)",
+    "description": "リンゴの種です。成長したら苗木になります。",
+    "seed_data": { "plant_name": "リンゴの苗木", "seeds": false, "fruit": "withered", "byproducts": [ "pt_seedling_apple" ], "grow": 60 }
+  },
+  {
+    "id": "pt_seed_pear",
+    "copy-from": "seed_fruit",
+    "type": "COMESTIBLE",
+    "name": "種(洋ナシ)",
+    "name_plural": "種(洋ナシ)",
+    "description": "洋ナシの種です。成長したら苗木になります。",
+    "seed_data": { "plant_name": "洋ナシの苗木", "seeds": false, "fruit": "withered", "byproducts": [ "pt_seedling_pear" ], "grow": 60 }
+  },
+  {
+    "id": "pt_seed_cherry",
+    "copy-from": "seed_fruit",
+    "type": "COMESTIBLE",
+    "name": "種(サクランボ)",
+    "name_plural": "種(サクランボ)",
+    "description": "サクランボの種です。成長したら苗木になります。",
+    "seed_data": { "plant_name": "サクランボの苗木", "seeds": false, "fruit": "withered", "byproducts": [ "pt_seedling_cherry" ], "grow": 60 }
+  },
+  {
+    "id": "pt_seed_peach",
+    "copy-from": "seed_fruit",
+    "type": "COMESTIBLE",
+    "name": "種(モモ)",
+    "name_plural": "種(モモ)",
+    "description": "モモの種です。成長したら苗木になります。",
+    "seed_data": { "plant_name": "モモの苗木", "seeds": false, "fruit": "withered", "byproducts": [ "pt_seedling_peach" ], "grow": 60 }
+  },
+  {
+    "id": "pt_seed_apricot",
+    "copy-from": "seed_fruit",
+    "type": "COMESTIBLE",
+    "name": "種(アンズ)",
+    "name_plural": "種(アンズ)",
+    "description": "アンズの種です。成長したら苗木になります。",
+    "seed_data": { "plant_name": "アンズの苗木", "seeds": false, "fruit": "withered", "byproducts": [ "pt_seedling_apricot" ], "grow": 60 }
+  },
+  {
+    "id": "pt_seed_plum",
+    "copy-from": "seed_fruit",
+    "type": "COMESTIBLE",
+    "name": "種(スモモ)",
+    "name_plural": "種(スモモ)",
+    "description": "スモモの種です。成長したら苗木になります。",
+    "seed_data": { "plant_name": "スモモの苗木", "seeds": false, "fruit": "withered", "byproducts": [ "pt_seedling_plum" ], "grow": 60 }
+  },
+  {
+    "id": "pt_seed_lemon",
+    "copy-from": "seed_fruit",
+    "type": "COMESTIBLE",
+    "name": "種(レモン)",
+    "name_plural": "種(レモン)",
+    "description": "レモンの種です。成長したら苗木になります。",
+    "seed_data": { "plant_name": "レモンの苗木", "seeds": false, "fruit": "withered", "byproducts": [ "pt_seedling_lemon" ], "grow": 60 }
+  },
+  {
+    "id": "pt_seed_banana",
+    "copy-from": "seed_fruit",
+    "type": "COMESTIBLE",
+    "name": "種(バナナ)",
+    "name_plural": "種(バナナ)",
+    "description": "バナナの種です。成長したら苗木になります。",
+    "seed_data": { "plant_name": "バナナの苗木", "seeds": false, "fruit": "withered", "byproducts": [ "pt_seedling_banana" ], "grow": 60 }
+  },
+  {
+    "id": "pt_seed_mango",
+    "copy-from": "seed_fruit",
+    "type": "COMESTIBLE",
+    "name": "種(マンゴー)",
+    "name_plural": "種(マンゴー)",
+    "description": "マンゴーの種です。成長したら苗木になります。",
+    "seed_data": { "plant_name": "マンゴーの苗木", "seeds": false, "fruit": "withered", "byproducts": [ "pt_seedling_mango" ], "grow": 60 }
+  },
+  {
+    "id": "pt_seed_grape",
+    "copy-from": "seed_fruit",
+    "type": "COMESTIBLE",
+    "name": "種(ブドウ)",
+    "name_plural": "種(ブドウ)",
+    "description": "ブドウの種です。成長したら苗木になります。",
+    "seed_data": { "plant_name": "ブドウの苗木", "seeds": false, "fruit": "withered", "byproducts": [ "pt_seedling_grape" ], "grow": 60 }
+  },
+  {
+    "id": "pt_seed_grapefruit",
+    "copy-from": "seed_fruit",
+    "type": "COMESTIBLE",
+    "name": "種(グレープフルーツ)",
+    "name_plural": "種(グレープフルーツ)",
+    "description": "グレープフルーツの種です。成長したら苗木になります。",
+    "seed_data": { "plant_name": "グレープフルーツの苗木", "seeds": false, "fruit": "withered", "byproducts": [ "pt_seedling_grapefruit" ], "grow": 60 }
+  },
+  {
+    "id": "pt_seed_papaya",
+    "copy-from": "seed_fruit",
+    "type": "COMESTIBLE",
+    "name": "種(パパイヤ)",
+    "name_plural": "種(パパイヤ)",
+    "description": "パパイヤの種です。成長したら苗木になります。",
+    "seed_data": { "plant_name": "パパイヤの苗木", "seeds": false, "fruit": "withered", "byproducts": [ "pt_seedling_papaya" ], "grow": 60 }
+  },
+  {
+    "id": "pt_seed_orange",
+    "copy-from": "seed_fruit",
+    "type": "COMESTIBLE",
+    "name": "種(オレンジ)",
+    "name_plural": "種(オレンジ)",
+    "description": "オレンジの種です。成長したら苗木になります。",
+    "seed_data": { "plant_name": "オレンジの苗木", "seeds": false, "fruit": "withered", "byproducts": [ "pt_seedling_orange" ], "grow": 60 }
+  },
+  {
+    "id": "pt_seed_pomegranate",
+    "copy-from": "seed_fruit",
+    "type": "COMESTIBLE",
+    "name": "種(ザクロ)",
+    "name_plural": "種(ザクロ)",
+    "description": "ザクロの種です。成長したら苗木になります。",
+    "seed_data": { "plant_name": "ザクロの苗木", "seeds": false, "fruit": "withered", "byproducts": [ "pt_seedling_pomegranate" ], "grow": 60 }
+  },
+  {
+    "id": "pt_seed_coconut",
+    "copy-from": "seed_fruit",
+    "type": "COMESTIBLE",
+    "name": "種(ココナッツ)",
+    "name_plural": "種(ココナッツ)",
+    "description": "ココナッツの種です。成長したら苗木になります。",
+    "seed_data": { "plant_name": "ココナッツの苗木", "seeds": false, "fruit": "withered", "byproducts": [ "pt_seedling_coconut" ], "grow": 60 }
+  }
+]
