@@ -1,0 +1,103 @@
+[
+  {
+    "abstract": "pt_recipe_seed",
+    "type": "recipe",
+    "category": "CC_FOOD",
+    "subcategory": "CSC_FOOD_OTHER",
+    "skill_used": "survival",
+    "difficulty": 2,
+    "time": 5000,
+    "book_learn": [ [ "pt_fruits_seed_book", 1] ],
+    "qualities": [ { "id": "CUT", "level": 1 } ]
+  },
+  {
+    "copy-from": "pt_recipe_seed",
+    "type": "recipe",
+    "result": "pt_seed_apple",
+    "components": [ [ [ "apple", 4 ], [ "irradiated_apple", 4 ] ] ]
+  },
+  {
+    "copy-from": "pt_recipe_seed",
+    "type": "recipe",
+    "result": "pt_seed_pear",
+    "components": [ [ [ "pear", 4 ], [ "irradiated_pear", 4 ] ] ]
+  },
+  {
+    "copy-from": "pt_recipe_seed",
+    "type": "recipe",
+    "result": "pt_seed_cherry",
+    "components": [ [ [ "cherries", 4 ], [ "irradiated_cherries", 4 ] ] ]
+  },
+  {
+    "copy-from": "pt_recipe_seed",
+    "type": "recipe",
+    "result": "pt_seed_peach",
+    "components": [ [ [ "peach", 4 ], [ "irradiated_peach", 4 ] ] ]
+  },
+  {
+    "copy-from": "pt_recipe_seed",
+    "type": "recipe",
+    "result": "pt_seed_apricot",
+    "components": [ [ [ "apricot", 4 ], [ "irradiated_apricot", 4 ] ] ]
+  },
+  {
+    "copy-from": "pt_recipe_seed",
+    "type": "recipe",
+    "result": "pt_seed_plum",
+    "components": [ [ [ "plums", 4 ], [ "irradiated_plums", 4 ] ] ]
+  },
+  {
+    "copy-from": "pt_recipe_seed",
+    "type": "recipe",
+    "result": "pt_seed_lemon",
+    "components": [ [ [ "lemon", 4 ], [ "irradiated_lemon", 4 ] ] ]
+  },
+  {
+    "copy-from": "pt_recipe_seed",
+    "type": "recipe",
+    "result": "pt_seed_banana",
+    "components": [ [ [ "banana", 4 ], [ "irradiated_banana", 4 ] ] ]
+  },
+  {
+    "copy-from": "pt_recipe_seed",
+    "type": "recipe",
+    "result": "pt_seed_mango",
+    "components": [ [ [ "mango", 4 ], [ "irradiated_mango", 4 ] ] ]
+  },
+  {
+    "copy-from": "pt_recipe_seed",
+    "type": "recipe",
+    "result": "pt_seed_grape",
+    "components": [ [ [ "grapes", 4 ], [ "irradiated_grapes", 4 ] ] ]
+  },
+  {
+    "copy-from": "pt_recipe_seed",
+    "type": "recipe",
+    "result": "pt_seed_grapefruit",
+    "components": [ [ [ "grapefruit", 4 ], [ "irradiated_grapefruit", 4 ] ] ]
+  },
+  {
+    "copy-from": "pt_recipe_seed",
+    "type": "recipe",
+    "result": "pt_seed_papaya",
+    "components": [ [ [ "papaya", 4 ], [ "irradiated_papaya", 4 ] ] ]
+  },
+  {
+    "copy-from": "pt_recipe_seed",
+    "type": "recipe",
+    "result": "pt_seed_orange",
+    "components": [ [ [ "orange", 4 ], [ "irradiated_orange", 4 ] ] ]
+  },
+  {
+    "copy-from": "pt_recipe_seed",
+    "type": "recipe",
+    "result": "pt_seed_pomegranate",
+    "components": [ [ [ "pomegranate", 4 ], [ "irradiated_pomegranate", 4 ] ] ]
+  },
+  {
+    "copy-from": "pt_recipe_seed",
+    "type": "recipe",
+    "result": "pt_seed_coconut",
+    "components": [ [ [ "coconut", 4 ] ] ]
+  }
+]

@@ -1,0 +1,135 @@
+[
+  {
+    "abstract": "pt_fruit_seedling",
+    "type": "GENERIC",
+    "comestible_type": "OTHER",
+    "name": "seedlings",
+    "name_plural": "seedlings",
+    "volume": 5,
+    "weight": 1000,
+    "price": 100,
+    "material": ["fruit", "veggy"],
+    "symbol": "T",
+    "color": "green"
+  },
+  {
+    "id": "pt_seedling_apple",
+    "copy-from": "pt_fruit_seedling",
+    "type": "GENERIC",
+    "name": "苗木(リンゴ)",
+    "name_plural": "苗木(リンゴ)",
+    "description": "リンゴの苗木です。植えたら果樹になります。"
+  },
+  {
+    "id": "pt_seedling_pear",
+    "copy-from": "pt_fruit_seedling",
+    "type": "GENERIC",
+    "name": "苗木(洋ナシ)",
+    "name_plural": "苗木(洋ナシ)",
+    "description": "洋ナシの苗木です。植えたら果樹になります。"
+  },
+  {
+    "id": "pt_seedling_cherry",
+    "copy-from": "pt_fruit_seedling",
+    "type": "GENERIC",
+    "name": "苗木(サクランボ)",
+    "name_plural": "苗木(サクランボ)",
+    "description": "サクランボの苗木です。植えたら果樹になります。"
+  },
+  {
+    "id": "pt_seedling_peach",
+    "copy-from": "pt_fruit_seedling",
+    "type": "GENERIC",
+    "name": "苗木(モモ)",
+    "name_plural": "苗木(モモ)",
+    "description": "モモの苗木です。植えたら果樹になります。"
+  },
+  {
+    "id": "pt_seedling_apricot",
+    "copy-from": "pt_fruit_seedling",
+    "type": "GENERIC",
+    "name": "苗木(アンズ)",
+    "name_plural": "苗木(アンズ)",
+    "description": "アンズの苗木です。植えたら果樹になります。"
+  },
+  {
+    "id": "pt_seedling_plum",
+    "copy-from": "pt_fruit_seedling",
+    "type": "GENERIC",
+    "name": "苗木(スモモ)",
+    "name_plural": "苗木(スモモ)",
+    "description": "スモモの苗木です。植えたら果樹になります。"
+  },
+  {
+    "id": "pt_seedling_lemon",
+    "copy-from": "pt_fruit_seedling",
+    "type": "GENERIC",
+    "name": "苗木(レモン)",
+    "name_plural": "苗木(レモン)",
+    "description": "レモンの苗木です。植えたら果樹になります。"
+  },
+  {
+    "id": "pt_seedling_banana",
+    "copy-from": "pt_fruit_seedling",
+    "type": "GENERIC",
+    "name": "苗木(バナナ)",
+    "name_plural": "苗木(バナナ)",
+    "description": "バナナの苗木です。植えたら果樹になります。"
+  },
+  {
+    "id": "pt_seedling_mango",
+    "copy-from": "pt_fruit_seedling",
+    "type": "GENERIC",
+    "name": "苗木(マンゴー)",
+    "name_plural": "苗木(マンゴー)",
+    "description": "マンゴーの苗木です。植えたら果樹になります。"
+  },
+  {
+    "id": "pt_seedling_grape",
+    "copy-from": "pt_fruit_seedling",
+    "type": "GENERIC",
+    "name": "苗木(ブドウ)",
+    "name_plural": "苗木(ブドウ)",
+    "description": "ブドウの苗木です。植えたら果樹になります。"
+  },
+  {
+    "id": "pt_seedling_grapefruit",
+    "copy-from": "pt_fruit_seedling",
+    "type": "GENERIC",
+    "name": "苗木(グレープフルーツ)",
+    "name_plural": "苗木(グレープフルーツ)",
+    "description": "グレープフルーツの苗木です。植えたら果樹になります。"
+  },
+  {
+    "id": "pt_seedling_papaya",
+    "copy-from": "pt_fruit_seedling",
+    "type": "GENERIC",
+    "name": "苗木(パパイヤ)",
+    "name_plural": "苗木(パパイヤ)",
+    "description": "パパイヤの苗木です。植えたら果樹になります。"
+  },
+  {
+    "id": "pt_seedling_orange",
+    "copy-from": "pt_fruit_seedling",
+    "type": "GENERIC",
+    "name": "苗木(オレンジ)",
+    "name_plural": "苗木(オレンジ)",
+    "description": "オレンジの苗木です。植えたら果樹になります。"
+  },
+  {
+    "id": "pt_seedling_pomegranate",
+    "copy-from": "pt_fruit_seedling",
+    "type": "GENERIC",
+    "name": "苗木(ザクロ)",
+    "name_plural": "苗木(ザクロ)",
+    "description": "ザクロの苗木です。植えたら果樹になります。"
+  },
+  {
+    "id": "pt_seedling_coconut",
+    "copy-from": "pt_fruit_seedling",
+    "type": "GENERIC",
+    "name": "苗木(ココナッツ)",
+    "name_plural": "苗木(ココナッツ)",
+    "description": "ココナッツの苗木です。植えたら果樹になります。"
+  }
+]

@@ -1,0 +1,48 @@
+[
+  {
+    "type": "item_group",
+    "id": "farming_seeds",
+    "items": [
+      ["pt_seed_apple", 60],
+      ["pt_seed_pear", 60],
+      ["pt_seed_cherry", 60],
+      ["pt_seed_peach", 60],
+      ["pt_seed_apricot", 60],
+      ["pt_seed_plum", 60],
+      ["pt_seed_lemon", 60],
+      ["pt_seed_banana", 60],
+      ["pt_seed_mango", 60],
+      ["pt_seed_grape", 60],
+      ["pt_seed_grapefruit", 60],
+      ["pt_seed_papaya", 60],
+      ["pt_seed_orange", 60],
+      ["pt_seed_pomegranate", 60],
+      ["pt_seed_coconut", 60]
+    ]
+  },
+  {
+    "type": "item_group",
+    "id": "kitchen",
+    "items": [ ["pt_fruits_seed_book", 15] ]
+  },
+  {
+    "type": "item_group",
+    "id": "homebooks",
+    "items": [ ["pt_fruits_seed_book", 10] ]
+  },
+  {
+    "type": "item_group",
+    "id": "textbooks",
+    "items": [ ["pt_fruits_seed_book", 6] ]
+  },
+  {
+    "type": "item_group",
+    "id": "mansion_books",
+    "items": [ ["pt_fruits_seed_book", 4] ]
+  },
+  {
+    "type": "item_group",
+    "id": "chem_home",
+    "items": [ ["pt_fruits_seed_book", 4] ]
+  }
+]

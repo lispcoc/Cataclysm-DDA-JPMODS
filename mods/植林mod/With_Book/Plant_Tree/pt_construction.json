@@ -1,0 +1,23 @@
+[
+  {
+    "type": "construction",
+    "description": "オークの苗木を植える",
+    "category"     : "FARM_WOOD",
+    "required_skills": [ [ "survival", 2 ] ],
+    "time": 30,
+    "qualities": [ [ { "id": "DIG", "level": 1 } ] ],
+    "components": [ [ [ "oak_seedling", 1 ] ] ],
+    "post_terrain": "t_tree"
+  },
+  {
+    "type": "construction",
+    "description": "マツの苗木を植える",
+    "category": "FARM_WOOD",
+    "required_skills" : [ [ "survival", 2 ] ],
+    "time": 30,
+    "qualities": [ [ { "id": "DIG", "level": 1 } ] ],
+    "components": [ [ [ "pine_seedling", 1 ] ] ],
+    "pre_flags": "DIGGABLE",
+    "post_terrain": "t_tree_pine"
+  }
+]
