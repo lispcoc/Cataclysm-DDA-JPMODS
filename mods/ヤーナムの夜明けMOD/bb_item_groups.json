@@ -1,0 +1,7 @@
+[
+  {
+    "id": "book_martial",
+    "type": "item_group",
+    "items": [ [ "manual_bb_kariudo", 1 ] ]
+  }
+]

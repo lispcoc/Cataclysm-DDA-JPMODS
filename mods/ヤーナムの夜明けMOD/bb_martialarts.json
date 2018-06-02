@@ -1,0 +1,122 @@
+[
+  {
+    "type" : "martial_art",
+    "id" : "style_bb_kariudo",
+    "name" : "狩人の戦術",
+    "description" : "遥か東の古都で獣憑きを狩るもの達が好んだ戦術です。攻撃を受けるより回避を重視し、敵の隙をついた内臓攻撃を繰り出します。",
+    "arm_block" : 99,
+    "leg_block" : 99,
+    "onmove_buffs" : [
+        {
+            "id" : "bb_kariudo_move_buff",
+            "name" : "ローリング",
+            "description" : "ローリングによる回避に入れる体勢です。",
+            "min_melee" : 2,
+            "max_stacks" : 1,
+            "buff_duration" : 2,
+            "flat_bonuses" : [["dodge", 2.0]],
+            "bonus_dodges" : 2,
+            "bonus_blocks" : -1
+        }
+    ],
+    "onhit_buffs" : [
+        {
+            "id" : "bb_kariudo_hit_buff",
+            "name" : "内臓攻撃",
+            "description" : "内臓攻撃のチャンスです！",
+            "min_melee" : 5,
+            "buff_duration" : 2,
+            "max_stacks" : 1
+        }
+    ],
+    "techniques" : [
+        "bb_kariudo_naizou"
+    ],
+    "weapons" : [
+        "bb_nokogiri_nata_off",
+        "bb_nokogiri_nata_on",
+        "bb_nokogiri_yari_off",
+        "bb_nokogiri_yari_on",
+        "bb_kemonogari_no_ono_off",
+        "bb_kemonogari_no_ono_on",
+        "bb_shikomi_tsue_off",
+        "bb_shikomi_tsue_on",
+        "bb_chikage_off",
+        "bb_chikage_on",
+        "bb_tonitrus_off",
+        "bb_tonitrus_on",
+        "bb_wheel_off",
+        "bb_wheel_on",
+        "bb_pile_hammer_off",
+        "bb_pile_hammer_on",
+        "bb_jihi_no_yaiba_off",
+        "bb_jihi_no_yaiba_on",
+        "bb_ludwig_no_seiken_off",
+        "bb_ludwig_no_seiken_on"
+    ]
+  },
+  {
+    "type" : "technique",
+    "id" : "bb_kariudo_naizou",
+    "name" : "内臓攻撃",
+    "min_unarmed" : 5,
+    "dodge_counter": true,
+    "req_buffs" : [
+        "bb_kariudo_hit_buff"
+        ],
+    "mult_bonuses" : [["movecost", 0.0]],
+    "messages" : [
+        "%sの隙を付いて内臓攻撃を繰り出し",
+        "<npcname>は%sの隙を付いて内臓攻撃を繰り出し"
+    ]
+  },
+  {
+    "type" : "technique",
+    "id" : "bb_pile_heavy_attack",
+    "name" : "強力な溜め攻撃",
+    "min_unarmed" : 6,
+    "mult_bonuses" : [
+        ["movecost", 2.50],
+        ["damage", "bash", 4.0],
+        ["damage", "cut", 4.0]
+    ],
+    "messages" : [
+        "強力な溜め攻撃は%sに",
+        "<npcname>の強力な溜め攻撃は%sに"
+    ],
+    "description" : "コスト250%・ダメージ400%(近接戦闘6)"
+  },
+  {
+    "type" : "technique",
+    "id" : "bb_chikage_iai",
+    "name" : "居合",
+    "min_unarmed" : 6,
+    "crit_tec" : true,
+    "mult_bonuses" : [
+        ["movecost", 0.33],
+        ["damage", "bash", 1.0],
+        ["damage", "cut", 1.0]
+    ],
+    "messages" : [
+        "目にも止まらぬ居合は%sに",
+        "<npcname>の目にも止まらぬ居合は%sに"
+    ],
+    "description" : "攻撃コスト33%のクリティカル攻撃(近接戦闘6)"
+  },
+  {
+    "type" : "technique",
+    "id" : "bb_jihi_no_yaiba_rash",
+    "name" : "ラッシュ",
+    "min_unarmed" : 6,
+    "mult_bonuses" : [
+        ["movecost", 0.25],
+        ["damage", "bash", 0.50],
+        ["damage", "cut", 0.50]
+    ],
+    "messages" : [
+        "眼にも止まらぬ連撃は%sに",
+        "<npcname>の眼にも止まらぬ連撃は%sに"
+    ],
+    "description" : "攻撃コスト25%・ダメージ50%(近接戦闘6)"
+  }
+]

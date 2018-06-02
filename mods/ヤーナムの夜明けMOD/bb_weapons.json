@@ -1,0 +1,571 @@
+[
+  {
+    "type":"TOOL",
+    "id" : "bb_nokogiri_nata_off",
+    "name" : "ノコギリ鉈",
+    "description" : "狩人が獣狩りに用いる「仕掛け武器」のひとつです。変形前は人ならぬ獣の皮膚を裂くノコギリとして、変形後は遠心力を利用した長柄の鉈として機能します。",
+    "weight" : 1200,
+    "volume" : 3,
+    "color" : "light_gray",
+    "symbol" : ";",
+    "material" : [ "steel", "wood" ],
+    "flags" : ["DURABLE_MELEE", "NONCONDUCTIVE"],
+    "techniques": ["RAPID", "WBLOCK_2"],
+    "bashing" : 10,
+    "cutting": 24,
+    "to_hit": 2,
+    "category": "weapons",
+    "price" : 100000,
+    "qualities": [ [ "SAW_W", 2 ], [ "SAW_M", 2 ], [ "BUTCHER", 10 ] ],
+    "use_action": [
+        {
+            "menu_text": "変形する",
+            "type": "transform",
+            "target": "bb_nokogiri_nata_on",
+            "moves" : 10,
+            "msg": "鉈を展開しました。"
+       }
+    ]
+  },
+  {
+    "type":"TOOL",
+    "edit-mode": "modify",
+    "id" : "bb_nokogiri_nata_on",
+    "name" : "ノコギリ鉈(変形)",
+    "description" : "狩人が獣狩りに用いる「仕掛け武器」のひとつです。変形前は人ならぬ獣の皮膚を裂くノコギリとして、変形後は遠心力を利用した長柄の鉈として機能します。",
+    "weight" : 1200,
+    "volume" : 5,
+    "color" : "light_gray",
+    "symbol" : ";",
+    "material" : [ "steel", "wood" ],
+    "flags" : ["DURABLE_MELEE", "NONCONDUCTIVE"],
+    "techniques": ["BRUTAL", "SWEEP", "WBLOCK_2"],
+    "bashing" : 30,
+    "cutting": 12,
+    "to_hit": 1,
+    "category": "weapons",
+    "price" : 100000,
+    "qualities": [ [ "CUT", 1 ] ],
+    "revert_to": "bb_nokogiri_nata_off",
+    "use_action": [
+        {
+            "menu_text": "変形する",
+            "type": "transform",
+            "target": "bb_nokogiri_nata_off",
+            "moves" : 10,
+            "msg": "鉈を収納しました。"
+        }
+    ]
+  },
+  {
+    "type":"TOOL",
+    "id" : "bb_nokogiri_yari_off",
+    "name" : "ノコギリ槍",
+    "description" : "狩人が獣狩りに用いる「仕掛け武器」のひとつです。変形前は人ならぬ獣の皮膚を裂くノコギリとして、変形後は距離をとって戦う槍として機能します。",
+    "weight" : 1200,
+    "volume" : 3,
+    "color" : "light_gray",
+    "symbol" : ";",
+    "material" : [ "steel", "wood" ],
+    "flags" : ["DURABLE_MELEE", "NONCONDUCTIVE"],
+    "techniques": ["RAPID", "WBLOCK_2"],
+    "bashing" : 10,
+    "cutting": 24,
+    "to_hit": 2,
+    "category": "weapons",
+    "price" : 100000,
+    "qualities": [ [ "SAW_W", 2 ], [ "SAW_M", 2 ], [ "BUTCHER", 10 ] ],
+    "use_action": [
+        {
+            "menu_text": "変形する",
+            "type": "transform",
+            "target": "bb_nokogiri_yari_on",
+            "moves" : 10,
+            "msg": "槍を展開しました。"
+       }
+    ]
+  },
+  {
+    "type":"TOOL",
+    "id" : "bb_nokogiri_yari_on",
+    "name" : "ノコギリ槍(変形)",
+    "description" : "狩人が獣狩りに用いる「仕掛け武器」のひとつです。変形前は人ならぬ獣の皮膚を裂くノコギリとして、変形後は距離をとって戦う槍として機能します。",
+    "weight" : 1200,
+    "volume" : 5,
+    "color" : "light_gray",
+    "symbol" : "/",
+    "material" : [ "steel", "wood" ],
+    "flags": [ "DURABLE_MELEE", "SPEAR", "REACH_ATTACK", "NONCONDUCTIVE" ],
+    "techniques": [ "IMPALE", "SWEEP", "WBLOCK_1" ],
+    "bashing" : 5,
+    "cutting": 35,
+    "to_hit": 0,
+    "category": "weapons",
+    "price" : 100000,
+    "qualities": [ [ "COOK", 1 ] ],
+    "revert_to": "bb_nokogiri_yari_off",
+    "use_action": [
+        {
+            "menu_text": "変形する",
+            "type": "transform",
+            "target": "bb_nokogiri_yari_off",
+            "moves" : 10,
+            "msg": "槍を収納しました。"
+        }
+    ]
+  },
+  {
+    "type":"TOOL",
+    "id" : "bb_kemonogari_no_ono_off",
+    "name" : "獣狩りの斧",
+    "description" : "狩人が獣狩りに用いる「仕掛け武器」のひとつです。変形前は人ならぬ獣の皮膚を裂くノコギリとして、変形後は遠心力を利用した長柄の鉈として機能します。",
+    "weight" : 2520,
+    "volume" : 4,
+    "color" : "light_gray",
+    "symbol" : "/",
+    "material" : [ "steel", "wood" ],
+    "flags" : ["DURABLE_MELEE", "NONCONDUCTIVE"],
+    "techniques": [ "BRUTAL", "WBLOCK_1" ],
+    "bashing" : 18,
+    "cutting": 34,
+    "to_hit": 2,
+    "category": "weapons",
+    "price" : 100000,
+    "qualities": [ [ "AXE", 2 ] ],
+    "use_action": [
+        {
+            "menu_text": "変形する",
+            "type": "transform",
+            "target": "bb_kemonogari_no_ono_on",
+            "moves" : 10,
+            "msg": "柄を展開しました。"
+       }
+    ]
+  },
+  {
+    "type":"TOOL",
+    "id" : "bb_kemonogari_no_ono_on",
+    "name" : "獣狩りの斧(変形)",
+    "description" : "狩人が獣狩りに用いる「仕掛け武器」のひとつです。変形前は人ならぬ獣の皮膚を裂くノコギリとして、変形後は遠心力を利用した長柄の鉈として機能します。",
+    "weight" : 2520,
+    "volume" : 10,
+    "color" : "light_gray",
+    "symbol" : "/",
+    "material" : [ "steel", "wood" ],
+    "flags" : ["DURABLE_MELEE", "NONCONDUCTIVE"],
+    "techniques": [ "BRUTAL", "SPIN", "WBLOCK_1" ],
+    "bashing" : 25,
+    "cutting": 42,
+    "to_hit": 2,
+    "category": "weapons",
+    "price" : 100000,
+    "qualities": [ [ "AXE", 2 ] ],
+    "use_action": [
+        {
+            "menu_text": "変形する",
+            "type": "transform",
+            "target": "bb_kemonogari_no_ono_off",
+            "moves" : 10,
+            "msg": "柄を収納しました。"
+       }
+    ]
+  },
+  {
+    "type":"TOOL",
+    "id" : "bb_shikomi_tsue_off",
+    "name" : "仕込み杖",
+    "description" : "狩人が獣狩りに用いる「仕掛け武器」のひとつです。変形前は人ならぬ獣の皮膚を裂くノコギリとして、変形後は遠心力を利用した長柄の鉈として機能します。",
+    "weight" : 2000,
+    "volume" : 2,
+    "color" : "light_gray",
+    "symbol" : "/",
+    "material" : [ "steel", "wood", "leather" ],
+    "flags" : [ "STAB", "DURABLE_MELEE", "NONCONDUCTIVE" ],
+    "techniques": [ "RAPID", "IMPALE", "WBLOCK_2" ],
+    "bashing" : 10,
+    "cutting": 20,
+    "to_hit": 2,
+    "category": "weapons",
+    "price" : 100000,
+    "use_action": [
+        {
+            "menu_text": "変形する",
+            "type": "transform",
+            "target": "bb_shikomi_tsue_on",
+            "moves" : 10,
+            "msg": "刃を展開しました。"
+       }
+    ]
+  },
+  {
+    "type":"TOOL",
+    "id" : "bb_shikomi_tsue_on",
+    "name" : "仕込み杖(変形)",
+    "description" : "狩人が獣狩りに用いる「仕掛け武器」のひとつです。変形前は人ならぬ獣の皮膚を裂くノコギリとして、変形後は遠心力を利用した長柄の鉈として機能します。",
+    "weight" : 2000,
+    "volume" : 12,
+    "color" : "light_gray",
+    "symbol" : "/",
+    "material" : [ "steel", "wood", "leather" ],
+    "techniques": [ "RAPID" ],
+    "flags": ["REACH_ATTACK", "REACH3", "WHIP"],
+    "bashing" : 2,
+    "cutting": 30,
+    "to_hit": 1,
+    "category": "weapons",
+    "price" : 100000,
+    "use_action": [
+        {
+            "menu_text": "変形する",
+            "type": "transform",
+            "target": "bb_shikomi_tsue_off",
+            "moves" : 10,
+            "msg": "刃を収納しました。"
+       }
+    ]
+  },
+  {
+    "type":"TOOL",
+    "id" : "bb_chikage_off",
+    "name" : "千景",
+    "description" : "刀身に血を這わせて緋色の血刃を形作る異邦の武器です。圧倒的な切れ味を誇りますが、同時にそれは自らをも蝕む呪われた業となるでしょう。",
+    "weight" : 1133,
+    "volume" : 8,
+    "color" : "red",
+    "symbol" : "/",
+    "material" : ["steel"],
+    "flags": [ "NO_UNLOAD", "DURABLE_MELEE", "SHEATH_SWORD" ],
+    "techniques": ["RAPID", "WBLOCK_2"],
+    "bashing" : 4,
+    "cutting": 31,
+    "to_hit": 1,
+    "category": "weapons",
+    "max_charges": 1000,
+    "price" : 100000,
+    "qualities": [["CUT", 1], ["BUTCHER", 9]],
+    "use_action": [
+        {
+            "menu_text": "変形する",
+            "type": "transform",
+            "target": "bb_chikage_on",
+            "moves" : 10,
+            "active": true,
+            "msg": "刀身に血を這わせた。"
+       }
+    ]
+  },
+  {
+    "type":"TOOL",
+    "id" : "bb_chikage_on",
+    "name" : "千景(変形)",
+    "description" : "刀身に血を這わせて緋色の血刃を形作る異邦の武器です。圧倒的な切れ味を誇りますが、同時にそれは自らをも蝕む呪われた業となるでしょう。",
+    "weight" : 1133,
+    "volume" : 8,
+    "color" : "red",
+    "symbol" : "/",
+    "material" : ["steel"],
+    "flags": ["NO_UNLOAD", "DURABLE_MELEE", "SHEATH_SWORD"],
+    "techniques": [ "bb_chikage_iai", "RAPID", "WBLOCK_1" ],
+    "bashing" : 4,
+    "cutting": 50,
+    "to_hit": 2,
+    "category": "weapons",
+    "max_charges": 1000,
+    "turns_per_charge": 50,
+    "price" : 100000,
+    "qualities": [["CUT", 1], ["BUTCHER", 9]],
+    "revert_to": "bb_chikage_off",
+    "use_action": [
+        {
+            "menu_text": "変形する",
+            "type": "transform",
+            "target": "bb_chikage_off",
+            "moves" : 10,
+            "msg": "刀身の血をふき取った。"
+        }
+    ],
+    "artifact_data" : {
+        "charge_type": "ARTC_HP",
+        "effects_wielded": ["AEP_PER_UP"]
+    }
+  },
+  {
+    "type":"TOOL",
+    "id" : "bb_tonitrus_off",
+    "name" : "トニトルス",
+    "description" : "奇妙な鉄球の槌のような形をした武器です。マッチのように擦ることで青い雷光を発生させます。",
+    "weight" : 750,
+    "volume" : 8,
+    "color" : "light_gray",
+    "symbol" : "/",
+    "material" : [ "plastic", "steel" ],
+    "flags": [ "DURABLE_MELEE", "NONCONDUCTIVE" ],
+    "techniques": [ "RAPID", "WBLOCK_1" ],
+    "bashing" : 28,
+    "cutting": 0,
+    "to_hit": 1,
+    "category": "weapons",
+    "price" : 100000,
+    "use_action": [
+        {
+            "menu_text": "擦る",
+            "type": "transform",
+            "target": "bb_tonitrus_on",
+            "moves" : 150,
+            "active": true,
+            "msg": "青い雷光を放ち始めました。"
+       }
+    ]
+  },
+  {
+    "type":"TOOL",
+    "id" : "bb_tonitrus_on",
+    "name" : "トニトルス(雷光)",
+    "description" : "奇妙な鉄球の槌のような形をした武器です。マッチのように擦ることで青い雷光を発生させます。",
+    "weight" : 750,
+    "volume" : 8,
+    "color" : "light_gray",
+    "symbol" : "/",
+    "material" : [ "plastic", "steel" ],
+    "flags": [ "LIGHT_450", "NO_UNLOAD", "CHARGEDIM", "DURABLE_MELEE", "NONCONDUCTIVE" ],
+    "techniques": [ "RAPID", "WBLOCK_1" ],
+    "bashing" : 35,
+    "cutting": 0,
+    "to_hit": 1,
+    "category": "weapons",
+    "max_charges": 15,
+    "initial_charges": 15,
+    "turns_per_charge": 1,
+    "price" : 100000,
+    "revert_to": "bb_tonitrus_off",
+    "use_action": "TAZER"
+  },
+  {
+    "type":"TOOL",
+    "id" : "bb_wheel_off",
+    "name" : "ローゲリウスの車輪",
+    "description" : "かつて殉教者ローゲリウスが率いた処刑隊が使用していたと言われる武器です。車輪仕掛けの軌道により、怨念を解放すれば、その素晴らしい本性が露わになるに違いありません。",
+    "weight" : 4000,
+    "volume" : 5,
+    "color" : "light_gray",
+    "symbol" : "]",
+    "material" : ["steel"],
+    "flags": [ "NO_UNLOAD", "DURABLE_MELEE" ],
+    "techniques": [ "BRUTAL", "WIDE", "WBLOCK_1" ],
+    "bashing" : 50,
+    "cutting": 0,
+    "to_hit": 0,
+    "category": "weapons",
+    "max_charges": 5,
+    "price" : 100000,
+    "use_action": [
+        {
+            "menu_text": "変形する",
+            "type": "transform",
+            "target": "bb_wheel_on",
+            "moves" : 10,
+            "msg": "怨念を解放しました。"
+       }
+    ]
+  },
+  {
+    "type":"TOOL",
+    "id" : "bb_wheel_on",
+    "name" : "ローゲリウスの車輪(変形)",
+    "description" : "かつて殉教者ローゲリウスが率いた処刑隊が使用していたと言われる武器です。車輪仕掛けの軌道により、怨念を解放すれば、その素晴らしい本性が露わになるに違いありません。",
+    "weight" : 4000,
+    "volume" : 5,
+    "color" : "light_gray",
+    "symbol" : "]",
+    "material" : ["steel"],
+    "flags": ["DURABLE_MELEE"],
+    "techniques": ["RAPID", "BRUTAL", "WIDE", "WBLOCK_1" ],
+    "bashing" : 42,
+    "cutting": 0,
+    "to_hit": 0,
+    "category": "weapons",
+    "max_charges": 5,
+    "charges_per_use": 1,
+    "price" : 100000,
+    "revert_to": "null",
+    "use_action": [
+        {
+            "menu_text": "変形する",
+            "type": "transform",
+            "target": "bb_wheel_off",
+            "moves" : 10,
+            "msg": "怨念は車輪へと戻って行きました。"
+        },
+        "ARTIFACT"
+    ],
+    "artifact_data" : {
+        "charge_type": "ARTC_HP",
+        "effects_activated": [ "AEA_ADRENALINE", "AEA_NOISE" ]
+    }
+  },
+  {
+    "type":"TOOL",
+    "id" : "bb_pile_hammer_off",
+    "name" : "パイルハンマー",
+    "description" : "狩人が獣狩りに用いる「仕掛け武器」のひとつです。変形前は人ならぬ獣の皮膚を裂くノコギリとして、変形後は距離をとって戦う槍として機能します。",
+    "weight" : 2500,
+    "volume" : 6,
+    "color" : "light_gray",
+    "symbol" : "/",
+    "material" : [ "steel" ],
+    "flags" : [ "STAB", "DURABLE_MELEE" ],
+    "techniques": [ "BRUTAL", "RAPID" ],
+    "bashing" : 20,
+    "cutting": 40,
+    "to_hit": 1,
+    "category": "weapons",
+    "price" : 100000,
+    "use_action": [
+        {
+            "menu_text": "変形する",
+            "type": "transform",
+            "target": "bb_pile_hammer_on",
+            "moves" : 10,
+            "msg": "杭を格納しました。"
+       }
+    ]
+  },
+  {
+    "type":"TOOL",
+    "id" : "bb_pile_hammer_on",
+    "name" : "パイルハンマー(変形)",
+    "description" : "狩人が獣狩りに用いる「仕掛け武器」のひとつです。変形前は人ならぬ獣の皮膚を裂くノコギリとして、変形後は距離をとって戦う槍として機能します。",
+    "weight" : 2500,
+    "volume" : 6,
+    "color" : "light_gray",
+    "symbol" : "/",
+    "material" : [ "steel" ],
+    "flags" : [ "STAB", "DURABLE_MELEE" ],
+    "techniques": [ "bb_pile_heavy_attack" ],
+    "bashing" : 50,
+    "cutting": 10,
+    "to_hit": 1,
+    "category": "weapons",
+    "price" : 100000,
+    "use_action": [
+        {
+            "menu_text": "変形する",
+            "type": "transform",
+            "target": "bb_pile_hammer_off",
+            "moves" : 10,
+            "msg": "杭を展開しました。"
+       }
+    ]
+  },
+  {
+    "type":"TOOL",
+    "id" : "bb_jihi_no_yaiba_off",
+    "name" : "慈悲の刃",
+    "description" : "刀身に血を這わせて緋色の血刃を形作る異邦の武器です。圧倒的な切れ味を誇りますが、同時にそれは自らをも蝕む呪われた業となるでしょう。",
+    "weight" : 640,
+    "volume" : 2,
+    "color" : "light_gray",
+    "symbol" : "/",
+    "material" : [ "steel" ],
+    "flags": [ "DURABLE_MELEE", "SHEATH_SWORD" ],
+    "techniques": [ "RAPID" ],
+    "bashing" : 0,
+    "cutting": 24,
+    "to_hit": 2,
+    "category": "weapons",
+    "price" : 100000,
+    "qualities": [["CUT", 1], ["BUTCHER", 10]],
+    "use_action": [
+        {
+            "menu_text": "変形する",
+            "type": "transform",
+            "target": "bb_jihi_no_yaiba_on",
+            "moves" : 10,
+            "msg": "刀を2つに分解した。"
+       }
+    ]
+  },
+  {
+    "type":"TOOL",
+    "id" : "bb_jihi_no_yaiba_on",
+    "name" : "慈悲の刃(変形)",
+    "description" : "刀身に血を這わせて緋色の血刃を形作る異邦の武器です。圧倒的な切れ味を誇りますが、同時にそれは自らをも蝕む呪われた業となるでしょう。",
+    "weight" : 640,
+    "volume" : 2,
+    "color" : "light_gray",
+    "symbol" : "/",
+    "material" : [ "steel" ],
+    "flags": [ "DURABLE_MELEE", "SHEATH_SWORD" ],
+    "techniques": [ "bb_jihi_no_yaiba_rash", "RAPID" ],
+    "bashing" : 0,
+    "cutting": 18,
+    "to_hit": 2,
+    "category": "weapons",
+    "price" : 100000,
+    "qualities": [["CUT", 1], ["BUTCHER", 10]],
+    "use_action": [
+        {
+            "menu_text": "変形する",
+            "type": "transform",
+            "target": "bb_jihi_no_yaiba_off",
+            "moves" : 10,
+            "msg": "2つの刀を組み合わせた。"
+        }
+    ]
+  },
+  {
+    "type":"TOOL",
+    "id" : "bb_ludwig_no_seiken_off",
+    "name" : "ルドウイークの聖剣",
+    "description" : "刀身に血を這わせて緋色の血刃を形作る異邦の武器です。圧倒的な切れ味を誇りますが、同時にそれは自らをも蝕む呪われた業となるでしょう。",
+    "weight" : 2240,
+    "volume" : 9,
+    "color" : "light_gray",
+    "symbol" : "/",
+    "material" : [ "steel" ],
+    "flags": [ "DURABLE_MELEE", "SHEATH_SWORD" ],
+    "techniques": [ "RAPID", "WBLOCK_2" ],
+    "bashing" : 4,
+    "cutting": 35,
+    "to_hit": 2,
+    "category": "weapons",
+    "price" : 100000,
+    "qualities": [["CUT", 1], ["BUTCHER", 9]],
+    "use_action": [
+        {
+            "menu_text": "変形する",
+            "type": "transform",
+            "target": "bb_ludwig_no_seiken_on",
+            "moves" : 10,
+            "msg": "剣に鞘を組み合わせた。"
+       }
+    ]
+  },
+  {
+    "type":"TOOL",
+    "id" : "bb_ludwig_no_seiken_on",
+    "name" : "ルドウイークの聖剣(変形)",
+    "description" : "刀身に血を這わせて緋色の血刃を形作る異邦の武器です。圧倒的な切れ味を誇りますが、同時にそれは自らをも蝕む呪われた業となるでしょう。",
+    "weight" : 2240,
+    "volume" : 9,
+    "color" : "light_gray",
+    "symbol" : "/",
+    "material" : [ "steel" ],
+    "flags": [ "STAB", "DURABLE_MELEE", "SHEATH_SWORD" ],
+    "techniques": [ "SWEEP", "BRUTAL", "WBLOCK_2" ],
+    "bashing" : 38,
+    "cutting": 12,
+    "to_hit": 2,
+    "category": "weapons",
+    "price" : 100000,
+    "use_action": [
+        {
+            "menu_text": "変形する",
+            "type": "transform",
+            "target": "bb_ludwig_no_seiken_off",
+            "moves" : 10,
+            "msg": "鞘から剣を抜いた。"
+        }
+    ]
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "type": "profession",
+    "ident": "profession_bb_kariudo",
+    "name": "狩人",
+    "description": "不治の病を治すために山中の都を訪れ「血の医療」を施されていました。あの時見た夢は何だったのか、今となってはもはや知る術はありませんが、なぜか「青ざめた血を求めよ」という言葉だけが頭の中に残っています。",
+    "points": 0,
+    "items": {
+        "both": [
+            "jeans",
+            "longshirt",
+            "socks",
+            "coat_winter",
+            "boots_winter",
+            "knit_scarf",
+            "water_clean",
+            "matches",
+            "bb_nokogiri_nata_off",
+            "manual_bb_kariudo"
+        ],
+        "male": [
+            "boxer_shorts"
+        ],
+        "female": [
+            "bra",
+            "panties"
+        ]
+    }
+  }
+]

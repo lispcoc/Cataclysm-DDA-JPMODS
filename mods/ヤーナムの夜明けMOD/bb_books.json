@@ -1,0 +1,30 @@
+[
+  {
+    "id": "manual_bb_kariudo",
+    "copy-from": "book_martial",
+    "type": "GENERIC",
+    "name": "狩人の夢(上)",
+    "name_plural": "狩人の夢(上)",
+    "description": "獣憑きと戦う狩人が記した戦術書です。著者の精神状態に問題があったのか内容には支離滅裂な部分も見られますが、不思議とその戦術はすんなりと頭に入ってきます。",
+    "price" : 100000
+  },
+  {
+    "id": "textbook_bb_kariudo2",
+    "type": "BOOK",
+    "name": "狩人の夢(下)",
+    "name_plural": "狩人の夢(下)",
+    "description": "獣憑きと戦う狩人の武器について記された本です。掲載されている武器はどれも複雑怪奇な構造をしていますが、腕のいい技術者なら再現することが可能でしょう。",
+    "weight": 654,
+    "volume": 5,
+    "price": 100000,
+    "material": [ "paper" ],
+    "symbol": "?",
+    "color": "blue",
+    "skill": "fabrication",
+    "required_level": 6,
+    "max_level": 10,
+    "intelligence": 10,
+    "time": 60,
+    "fun": -2
+  }
+]

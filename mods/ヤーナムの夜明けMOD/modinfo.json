@@ -1,0 +1,10 @@
+{
+    "type"        : "MOD_INFO",
+    "mod_type"    : "SUPPLEMENTAL",
+    "ident"       : "jpmod_bloodborne",
+    "name"        : "追加 - 獣狩りの夜",
+    "author"      : "LISP",
+    "category"    : "content",
+    "description" : "どこかで見たようなアイテムやモンスター等の要素を追加します。獣狩りの夜が始まる……。",
+    "path"        : ""
+}
