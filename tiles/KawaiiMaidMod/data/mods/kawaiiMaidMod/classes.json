@@ -1,0 +1,45 @@
+[
+    {
+        "type": "profession",
+        "ident": "kawaii_maid",
+        "name": "メイド(kawaii)",
+        "description": "大きなお屋敷で働いていましたが、大変動の日の後、雇い主一家は自分だけを除け者にして、どことも知れぬ場所へ長期旅行に出かけてしまいました。ただ、神は彼女を見捨てはいなかった様です。眼前に広がるのは汚れた家屋、散らかった街。仕事を始めましょう。",
+        "points": 1,
+        "skills": [
+            {
+                "level": 2,
+                "name": "cooking"
+            },
+            {
+                "level": 1,
+                "name": "driving"
+            },
+            {
+                "level": 2,
+                "name": "tailor"
+            }
+        ],
+        "items": {
+            "both" : [
+                "pocketwatch",
+                "knife_steak"
+            ],
+            "male": [
+                "briefs",
+                "kawaii_maid_dress",
+                "kawaii_maid_hat",
+                "gloves_light",
+                "kawaii_dress_shoes"
+            ],
+            "female": [
+                "kawaii_maid_panties",
+                "kawaii_maid_bra",
+                "stockings",
+                "kawaii_maid_dress",
+                "kawaii_maid_hat",
+                "gloves_light",
+                "kawaii_dress_shoes"
+            ]
+        }
+    }
+]

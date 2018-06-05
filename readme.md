@@ -32,10 +32,16 @@ MODの導入・ご使用は自己責任でお願いします。不具合が発�
     - 銃器エンジョイMOD
 - Cataclysmスレ 65日目 >>716氏
     - フォレスト･サワタリごっこ用の一式を追加するmod
+- Cataclysmスレ 65日目 >>791氏
+    - KawaiiMaidMod
+- Cataclysmスレ 65日目 >>914氏
+    - cataclysmdda翻訳ファイルMOD追加版
 
 ほか調査中。<br>
 
 ### ライセンス
+各MODに特に明記がない限り、CC-SA 3.0とします。改造・再配布の際には原作者様のクレジットを記載してください。<br>
+（よくわからない場合は本リポジトリのURLを記載しておけば問題ないと思います）
 
 ### スペシャルサンクス
 Cataclysm:DDA 日本語Wiki<br>
@@ -43,3 +49,5 @@ https://www57.atwiki.jp/cataclyj/<br>
 
 ＠の溜まり場II Cataclysmスレの皆様<br>
 https://jbbs.shitaraba.net/game/9358/<br>
+
+この作品は、クリエイティブ・コモンズの 表示 - 継承 3.0 非移植 ライセンスで提供されています。ライセンスの写しをご覧になるには、 http://creativecommons.org/licenses/by-sa/3.0/ をご覧頂くか、Creative Commons, PO Box 1866, Mountain View, CA 94042, USA までお手紙をお送りください。 
