@@ -16,7 +16,7 @@
     "casing": "9mm_casing",
     "range": 14,
     "damage": 32,
-    "pierce": 3,
+    "pierce": 2,
     "dispersion": 30,
     "recoil": 125,
     "effects": [ "COOKOFF" ]
