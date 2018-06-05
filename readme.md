@@ -7,6 +7,9 @@ Cataclysm:DDA 和製MOD集約用リポジトリ
 ### ダウンロード
 以下URLより、本リポジトリの全ファイルをダウンロードできます。<br>
 https://github.com/lispcoc/Cataclysm-DDA-JPMODS/archive/master.zip<br>
+mod個別でダウンロードしたい場合は、以下のページから必要なmodの個別ページに移動した後、<br>
+ページ右側の「Download」ボタンからzipファイルをダウンロードしてください。<br>
+https://github.com/lispcoc/Cataclysm-DDA-JPMODS/tree/master/release<br>
 
 ### インストール
 各MODと同じフォルダに配置されたテキストファイルにインストール方法が記述されているので、それに従ってください。<br>
