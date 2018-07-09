@@ -1,67 +1,70 @@
-KawaiiMaidMod v1.2.2
+KawaiiMaidMod v1.2.3
 
-æ¦‚è¦
-	å¥³æ€§ã‚­ãƒ£ãƒ©ã®è¦‹ãŸç›®ã¨ãƒ¡ã‚¤ãƒ‰æœã‚»ãƒƒãƒˆã¨ã‹ãã®ä»–ã„ãã¤ã‹ä¿®æ­£è¿½åŠ ã€‚ã‹ã‚ã„ã„ã‚ã„ã©ã•ã‚“ã§è¡—ã‚‚ã‚¾ãƒ³ãƒ“ã‚‚ãŠæŽƒé™¤ã—ã¾ã—ã‚‡ã†ã€‚
+ŠT—v
+	—«ƒLƒƒƒ‰‚ÌŒ©‚½–Ú‚ÆƒƒCƒh•žƒZƒbƒg‚Æ‚©‚»‚Ì‘¼‚¢‚­‚Â‚©C³’Ç‰ÁB‚©‚í‚¢‚¢‚ß‚¢‚Ç‚³‚ñ‚ÅŠX‚àƒ]ƒ“ƒr‚à‚¨‘|œ‚µ‚Ü‚µ‚å‚¤B
 
-å‹•ä½œç¢ºèªæ¸ˆã¿ãƒãƒ¼ã‚¸ãƒ§ãƒ³
-	æœ¬ä½“0.C-7000ç•ªå°
+“®ìŠm”FÏ‚Ýƒo[ƒWƒ‡ƒ“
+	–{‘Ì0.C-7000”Ô‘ä
 	MshockXotto+p11
 	MshockXotto+patch11J
 	mshockxotto+ patch7 + jpmods(7119) kari	
 
-å°Žå…¥æ–¹æ³•
-	1ï¼Œä¸‹è¨˜å¯¾å¿œã‚¿ã‚¤ãƒ«ã‚»ãƒƒãƒˆã®ã©ã‚Œã‹ã‚’å°Žå…¥
+“±“ü•û–@
+	1C‰º‹L‘Î‰žƒ^ƒCƒ‹ƒZƒbƒg‚Ì‚Ç‚ê‚©‚ð“±“ü
 		MshockXotto+p11
 		MshockXotto+patch11J
 		mshockxotto+ patch7 + jpmods(7119) kari	
 	
-	2,dataãƒ•ã‚©ãƒ«ãƒ€ã‚’æœ¬ä½“ã®åŒã˜æ‰€ã¸ä¸Šæ›¸ãã‚³ãƒ”ãƒ¼
-	3,gfxãƒ•ã‚©ãƒ«ãƒ€ã‹ã‚‰å°Žå…¥ã—ãŸã‚¿ã‚¤ãƒ«ã‚»ãƒƒãƒˆã¨åŒã˜ãƒ•ã‚©ãƒ«ãƒ€ã‚’æœ¬ä½“ã®gfxãƒ•ã‚©ãƒ«ãƒ€ã«ã‚³ãƒ”ãƒ¼
-	4,ãƒ¯ãƒ¼ãƒ«ãƒ‰è¨­å®šã§KawaiiMaidModã‚’é¸æŠž
-	5,ã‚ªãƒ—ã‚·ãƒ§ãƒ³>è¡¨ç¤º>ã‚¿ã‚¤ãƒ«ã‚»ãƒƒãƒˆé¸æŠžã§å°Žå…¥ã—ãŸã‚¿ã‚¤ãƒ«ã‚»ãƒƒãƒˆã‚’é¸æŠž
-	6,è·æ¥­ã‚’ãƒ¡ã‚¤ãƒ‰(Kawaii)ã§å§‹ã‚ã‚‹ã€ã¾ãŸã¯æ—¢å­˜ã®ãƒ¡ã‚¤ãƒ‰æœç­‰ã‚’ç´ æã¨ã—ã¦Kawaiiç‰ˆã«ã‚¯ãƒ©ãƒ•ãƒˆ
+	2,dataƒtƒHƒ‹ƒ_‚ð–{‘Ì‚Ì“¯‚¶Š‚Öã‘‚«ƒRƒs[
+	3,gfxƒtƒHƒ‹ƒ_‚©‚ç“±“ü‚µ‚½ƒ^ƒCƒ‹ƒZƒbƒg‚Æ“¯‚¶ƒtƒHƒ‹ƒ_‚ð–{‘Ì‚ÌgfxƒtƒHƒ‹ƒ_‚ÉƒRƒs[
+	4,ƒ[ƒ‹ƒhÝ’è‚ÅKawaiiMaidMod‚ð‘I‘ð
+	5,ƒIƒvƒVƒ‡ƒ“>•\Ž¦>ƒ^ƒCƒ‹ƒZƒbƒg‘I‘ð‚Å“±“ü‚µ‚½ƒ^ƒCƒ‹ƒZƒbƒg‚ð‘I‘ð
+	6,E‹Æ‚ðƒƒCƒh(Kawaii)‚ÅŽn‚ß‚éA‚Ü‚½‚ÍŠù‘¶‚ÌƒƒCƒh•ž“™‚ð‘fÞ‚Æ‚µ‚ÄKawaii”Å‚ÉƒNƒ‰ƒtƒg
 	7,Kawaii!!
 
-æ›´æ–°å±¥æ­´
+XV—š—ð
+	v1.2.3
+		¡ ¬•¶Žš‚Æ‘å•¶Žš‚ª“ˆê‚³‚ê‚Ä‚È‚©‚Á‚½‚Ì‚ðC³
+		¡ gfx/MshockXotto+patch11J(180702‘Î‰ž)‚ð’Ç‰Á
 	v1.2.2
-		â–  ã‚¦ã‚§ãƒ‡ã‚£ãƒ³ã‚°ãƒ™ãƒ¼ãƒ«2ç¨®ã‚’åˆ¥ã®ã‚¿ã‚¤ãƒ«ã‚»ãƒƒãƒˆã«åˆ†é›¢
-			ãŸã£ãŸ1ãƒ‰ãƒƒãƒˆã‚ªãƒ•ã‚»ãƒƒãƒˆã™ã‚‹ç‚ºã®è‹¦è‚‰ã®ç­–
+		¡ ƒEƒFƒfƒBƒ“ƒOƒx[ƒ‹2Ží‚ð•Ê‚Ìƒ^ƒCƒ‹ƒZƒbƒg‚É•ª—£
+			‚½‚Á‚½1ƒhƒbƒgƒIƒtƒZƒbƒg‚·‚éˆ×‚Ì‹ê“÷‚Ìô
 		
-		â–  Xotto patch11ã€MshockXotto+patch11Jç”¨ã®tile_configã‚’è¿½åŠ 
-		â–  å½“ReadMeæœ€ä¸‹éƒ¨ã«ãŠã‚„ãããã®è¿½åŠ 
+		¡ Xotto patch11AMshockXotto+patch11J—p‚Ìtile_config‚ð’Ç‰Á
+		¡ “–ReadMeÅ‰º•”‚É‚¨‚â‚­‚»‚­‚Ì’Ç‰Á
 
 	v1.2.0
-		â–  ã‚¦ã‚¨ãƒ‡ã‚£ãƒ³ã‚°ãƒ‰ãƒ¬ã‚¹ã€ã‚¦ã‚¨ãƒ‡ã‚£ãƒ³ã‚°ãƒ™ãƒ¼ãƒ«(ã‚·ãƒ³ãƒ—ãƒ«)ã€ã‚¦ã‚¨ãƒ‡ã‚£ãƒ³ã‚°ãƒ™ãƒ¼ãƒ«(è£…é£¾ä»˜ã)ã®è¿½åŠ 
-			ã€é‡è¦ã€‘ãƒ”ãƒ³ã‚¯ã®ãƒ‰ãƒƒãƒˆéƒ¨åˆ†ã¯èŠ±ã®è£…é£¾ã¨ã„ã†è„³å†…è£œå®Œã‚’ã—ã¦ã”åˆ©ç”¨ãã ã•ã„
+		¡ ƒEƒGƒfƒBƒ“ƒOƒhƒŒƒXAƒEƒGƒfƒBƒ“ƒOƒx[ƒ‹(ƒVƒ“ƒvƒ‹)AƒEƒGƒfƒBƒ“ƒOƒx[ƒ‹(‘•ü•t‚«)‚Ì’Ç‰Á
+			yd—vzƒsƒ“ƒN‚Ìƒhƒbƒg•”•ª‚Í‰Ô‚Ì‘•ü‚Æ‚¢‚¤”]“à•âŠ®‚ð‚µ‚Ä‚²—˜—p‚­‚¾‚³‚¢
 
 	v1.1.0
-		â–  å…¨ã‚¢ã‚¤ãƒ†ãƒ ã®ç‹¬ç«‹ã—ãŸã‚¢ã‚¤ãƒ†ãƒ ãƒ»ãƒ¬ã‚·ãƒ”è¿½åŠ (ãƒ‡ãƒ•ã‚©ã‚¢ã‚¤ãƒ†ãƒ ã‚„ä»–ã®Modã¨å¹²æ¸‰ã—ãªã„æ§˜ã«)
-			ãƒ¬ã‚·ãƒ”ã¯åŸºæœ¬çš„ã«å„å…ƒã®ã‚¢ã‚¤ãƒ†ãƒ ã‚’ç´ æã«ç„¡æ¡ä»¶ã§ãƒ‡ã‚¶ã‚¤ãƒ³å¤‰æ›´ã®ã¿ã®ç½®ãæ›ãˆãƒ¬ã‚·ãƒ”
-			ä¾‹ï¼šãƒ¡ã‚¤ãƒ‰æœâ†’ãƒ¡ã‚¤ãƒ‰æœ[Kawaii]ã€€ãƒ“ã‚­ãƒ‹ãƒˆãƒƒãƒ—â†’ãƒ“ã‚­ãƒ‹ãƒˆãƒƒãƒ—(é»’)[Kawaii]
+		¡ ‘SƒAƒCƒeƒ€‚Ì“Æ—§‚µ‚½ƒAƒCƒeƒ€EƒŒƒVƒs’Ç‰Á(ƒfƒtƒHƒAƒCƒeƒ€‚â‘¼‚ÌMod‚ÆŠ±Â‚µ‚È‚¢—l‚É)
+			ƒŒƒVƒs‚ÍŠî–{“I‚ÉŠeŒ³‚ÌƒAƒCƒeƒ€‚ð‘fÞ‚É–³ðŒ‚ÅƒfƒUƒCƒ“•ÏX‚Ì‚Ý‚Ì’u‚«Š·‚¦ƒŒƒVƒs
+			—áFƒƒCƒh•ž¨ƒƒCƒh•ž[Kawaii]@ƒrƒLƒjƒgƒbƒv¨ƒrƒLƒjƒgƒbƒv(•)[Kawaii]
 			
-		â–  é–‹å§‹æ™‚è·æ¥­ã¨ã—ã¦ãƒ¡ã‚¤ãƒ‰(Kawaii)ã®è¿½åŠ 
-			ãƒ‡ãƒ•ã‚©ãƒ¡ã‚¤ãƒ‰ã¨åŒæ€§èƒ½ã®KawaiiMaidã‚·ãƒªãƒ¼ã‚ºã‚’ç€ç”¨ã€æ‰‹è¢‹ä»˜ãä»¥å¤–ã¯ãƒ‡ãƒ•ã‚©ãƒ¡ã‚¤ãƒ‰
+		¡ ŠJŽnŽžE‹Æ‚Æ‚µ‚ÄƒƒCƒh(Kawaii)‚Ì’Ç‰Á
+			ƒfƒtƒHƒƒCƒh‚Æ“¯«”\‚ÌKawaiiMaidƒVƒŠ[ƒY‚ð’…—pAŽè‘Ü•t‚«ˆÈŠO‚ÍƒfƒtƒHƒƒCƒh
 			
-		â–  ãƒ¡ã‚¤ãƒ‰æœExã®ãƒ¬ã‚·ãƒ”ã¨æ€§èƒ½ã®èª¿æ•´(ãƒ€ãƒƒãƒ•ãƒ«ãƒãƒƒã‚°ç›¸å½“ãŒå‹•ä½œåˆ¶é™0ã¯å„ªç§€ã™ãŽãŸã®ã§)
-			é‡é‡ãƒ»ä½“ç©ãƒ»å‹•ä½œåˆ¶é™ãƒ»ãƒ¬ã‚·ãƒ”è¦æ±‚ãŒåŽ³ã—ã
+		¡ ƒƒCƒh•žEx‚ÌƒŒƒVƒs‚Æ«”\‚Ì’²®(ƒ_ƒbƒtƒ‹ƒoƒbƒO‘Š“–‚ª“®ì§ŒÀ0‚Í—DG‚·‚¬‚½‚Ì‚Å)
+			d—ÊE‘ÌÏE“®ì§ŒÀEƒŒƒVƒs—v‹‚ªŒµ‚µ‚­
 			
-		â–  mshockxotto+ patch7 + jpmods(7119) kari ç”¨ã®tile_config.jsonã‚’åŒæ¢±
-			åŒæ¢±ç‰ˆã®tile_config.jsonã§å·®ã—æ›¿ãˆã‚‹ã¨æã‚‰ãjpmodé”ã¨ä¸€ç·’ã«ä½¿ãˆã‚‹ã¯ãšï¼(â€»KawaiiMaidModä»¥å¤–æœªç¢ºèªã§ã™!!)
+		¡ mshockxotto+ patch7 + jpmods(7119) kari —p‚Ìtile_config.json‚ð“¯«
+			“¯«”Å‚Ìtile_config.json‚Å·‚µ‘Ö‚¦‚é‚Æ‹°‚ç‚­jpmod’B‚Æˆê‚ÉŽg‚¦‚é‚Í‚¸I(¦KawaiiMaidModˆÈŠO–¢Šm”F‚Å‚·!!)
 
 	v1.0.1
-		ã‚­ãƒ£ãƒ©ã‚¯ã‚¿ãƒ¼ã®ã‚°ãƒ©ãƒ•ã‚£ãƒƒã‚¯å¤‰æ›´
-		ãƒ¡ã‚¤ãƒ‰æœã®ã‚°ãƒ©ãƒ•ã‚£ãƒƒã‚¯å¤‰æ›´
-		ãƒ›ãƒ¯ã‚¤ãƒˆãƒ–ãƒªãƒ ã®ã‚°ãƒ©ãƒ•ã‚£ãƒƒã‚¯å¤‰æ›´
-		ãƒ‰ãƒ¬ã‚¹ã‚·ãƒ¥ãƒ¼ã‚ºã®ã‚°ãƒ©ãƒ•ã‚£ãƒƒã‚¯å¤‰æ›´
-		å®¹é‡30ã®ãƒ¡ã‚¤ãƒ‰æœ(Ex)ã‚’è¿½åŠ (å¸ƒ1ã¤ã§ã‚¯ãƒ©ãƒ•ãƒˆã€‚ãƒãƒƒã‚¯ãƒ‘ãƒƒã‚¯ã‚’æŒã¡ãŸããªã„ãƒ¡ã‚¤ãƒ‰ã•ã‚“ã«)
-		ãƒ€ãƒƒãƒ•ãƒ«ãƒãƒƒã‚°ã¨åŒæ€§èƒ½ã®ãƒãƒ¼ãƒ‰ã‚±ãƒ¼ã‚¹ã‚’è¿½åŠ (ãƒ€ãƒƒãƒ•ãƒ«ãƒãƒƒã‚¯ã¨åŒæ¡ä»¶ã§ã‚¯ãƒ©ãƒ•ãƒˆ)
-		ãƒãƒ©ã‚¯ãƒ©ãƒã®é¡”å‡ºã—ç‰ˆã‚’è¿½åŠ (ãƒãƒ©ã‚¯ãƒ©ãƒã¨åŒã˜æ¡ä»¶ã§ã‚¯ãƒ©ãƒ•ãƒˆ)
-		ä¸‹ç€ã®ã‚°ãƒ©ãƒ•ã‚£ãƒƒã‚¯å¤‰æ›´(ãƒ¡ã‚¤ãƒ‰ã•ã‚“ã®ä¸‹ç€ã¯æ¸…æ¥šãªç™½ã§ã‚ã‚‹ã¹ãã§ã“ã‚Œã¯è­²ã‚Œãªã„)
-		çœ¼é¡ã®ã‚°ãƒ©ãƒ•ã‚£ãƒƒã‚¯å¤‰æ›´
-		ã‚³ãƒƒãƒˆãƒ³ãƒãƒƒãƒˆã‚’ç™½ãã—ãŸ
-		ãƒŠãƒŽã‚¹ã‚«ãƒ¼ãƒˆã®ã‚°ãƒ©ãƒ•ã‚£ãƒƒã‚¯å¤‰æ›´
-		å¤šæ©Ÿèƒ½ãƒ™ã‚¹ãƒˆã®ã‚°ãƒ©ãƒ•ã‚£ãƒƒã‚¯å¤‰æ›´
-		ãƒ“ã‚­ãƒ‹ãƒˆãƒƒãƒ—ã€ãƒœãƒˆãƒ ã‚’é»’ãã—ãŸ
+		ƒLƒƒƒ‰ƒNƒ^[‚ÌƒOƒ‰ƒtƒBƒbƒN•ÏX
+		ƒƒCƒh•ž‚ÌƒOƒ‰ƒtƒBƒbƒN•ÏX
+		ƒzƒƒCƒgƒuƒŠƒ€‚ÌƒOƒ‰ƒtƒBƒbƒN•ÏX
+		ƒhƒŒƒXƒVƒ…[ƒY‚ÌƒOƒ‰ƒtƒBƒbƒN•ÏX
+		—e—Ê30‚ÌƒƒCƒh•ž(Ex)‚ð’Ç‰Á(•z1‚Â‚ÅƒNƒ‰ƒtƒgBƒoƒbƒNƒpƒbƒN‚ðŽ‚¿‚½‚­‚È‚¢ƒƒCƒh‚³‚ñ‚É)
+		ƒ_ƒbƒtƒ‹ƒoƒbƒO‚Æ“¯«”\‚Ìƒn[ƒhƒP[ƒX‚ð’Ç‰Á(ƒ_ƒbƒtƒ‹ƒoƒbƒN‚Æ“¯ðŒ‚ÅƒNƒ‰ƒtƒg)
+		ƒoƒ‰ƒNƒ‰ƒo‚ÌŠço‚µ”Å‚ð’Ç‰Á(ƒoƒ‰ƒNƒ‰ƒo‚Æ“¯‚¶ðŒ‚ÅƒNƒ‰ƒtƒg)
+		‰º’…‚ÌƒOƒ‰ƒtƒBƒbƒN•ÏX(ƒƒCƒh‚³‚ñ‚Ì‰º’…‚Í´‘^‚È”’‚Å‚ ‚é‚×‚«‚Å‚±‚ê‚Í÷‚ê‚È‚¢)
+		Šá‹¾‚ÌƒOƒ‰ƒtƒBƒbƒN•ÏX
+		ƒRƒbƒgƒ“ƒnƒbƒg‚ð”’‚­‚µ‚½
+		ƒiƒmƒXƒJ[ƒg‚ÌƒOƒ‰ƒtƒBƒbƒN•ÏX
+		‘½‹@”\ƒxƒXƒg‚ÌƒOƒ‰ƒtƒBƒbƒN•ÏX
+		ƒrƒLƒjƒgƒbƒvAƒ{ƒgƒ€‚ð•‚­‚µ‚½
 
-ãŠã‚„ããã
-	æ–°ãƒãƒ¼ã‚¸ãƒ§ãƒ³å¯¾å¿œã®ç‚ºã®ä¿®æ­£ã‚„å†é…å¸ƒã¯ã”è‡ªç”±ã«ã©ã†ãžï¼
+‚¨‚â‚­‚»‚­
+	Vƒo[ƒWƒ‡ƒ“‘Î‰ž‚Ìˆ×‚ÌC³‚âÄ”z•z‚Í‚²Ž©—R‚É‚Ç‚¤‚¼I

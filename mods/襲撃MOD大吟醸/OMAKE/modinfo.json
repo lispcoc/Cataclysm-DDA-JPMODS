@@ -1,0 +1,11 @@
+    {
+        "type": "MOD_INFO",
+        "mod-type": "SUPPLEMENTAL",
+        "ident": "defense_mode_refine",
+        "name": "襲撃 - 大吟醸(辛口)",
+        "author": "",
+        "description": "定期的な敵対集団の生成を行います。Cataclysm++対応版",
+        "category": "rebalance",
+        "dependencies": [ "dda", "Cata++" ],
+        "path": ""
+    }

@@ -76,7 +76,7 @@
   {
     "id": "kawaii_maid_bra",
     "type": "ARMOR",
-    "name": "純白の誇り(ブラジャー)[Kawaii]",
+    "name": "純白の誇り(ブラジャー)[kawaii]",
     "description": "メイドさんは見えない所にも、その技能の証明たる純白を身に纏います。浪漫が詰まっています。",
     "weight": 32,
     "volume": 1,
@@ -93,7 +93,7 @@
   {
     "id": "kawaii_bikini_bottom_black",
     "type": "ARMOR",
-    "name": "ビキニパンツ(黒)[Kawaii]",
+    "name": "ビキニパンツ(黒)[kawaii]",
     "description": "肌色が映えるシンプルな黒ビキニパンツです。",
     "weight": 32,
     "volume": 1,
@@ -110,7 +110,7 @@
   {
     "id": "kawaii_bikini_top_black",
     "type": "ARMOR",
-    "name": "ビキニトップ(黒)[Kawaii]",
+    "name": "ビキニトップ(黒)[kawaii]",
     "description": "肌色が映えるシンプルな黒ビキニトップです。",
     "weight": 32,
     "volume": 0,
@@ -126,7 +126,7 @@
   {
     "id": "kawaii_tailskirt_mini",
     "type": "ARMOR",
-    "name": "フィッシュテールミニスカート[Kawaii]",
+    "name": "フィッシュテールミニスカート[kawaii]",
     "description": "後ろが長いフィッシュテールスカートです。",
     "weight": 11,
     "volume": 1,
@@ -142,7 +142,7 @@
   {
     "id": "kawaii_vest",
     "type": "ARMOR",
-    "name": "多機能ベスト改[Kawaii]",
+    "name": "多機能ベスト改[kawaii]",
     "description": "たくさんのポケットが付いた多機能ベストです。性能はそのままにデザインだけ改造してあります。",
     "weight": 516,
     "volume": 4,
@@ -179,7 +179,7 @@
   {
     "id": "kawaii_maid_megane",
     "type": "ARMOR",
-    "name": "眼鏡[Kawaii]",
+    "name": "眼鏡[kawaii]",
     "description": "メイドさんはそのレンズを通して家中の塵はおろか、主の些細な不調さえ見逃しません。",
     "weight": 30,
     "volume": 1,
@@ -197,7 +197,7 @@
   {
     "id": "kawaii_hat_cotton",
     "type": "ARMOR",
-    "name": "コットンハット(白)[Kawaii]",
+    "name": "コットンハット(白)[kawaii]",
     "description": "綿で作られた暖かい帽子です。白いのでメイド服にも合いそうです。",
     "weight": 78,
     "volume": 1,
@@ -287,7 +287,7 @@
   {
     "id": "kawaii_dress_shoes",
     "type": "ARMOR",
-    "name": "ドレスシューズ[Kawaii]",
+    "name": "ドレスシューズ[kawaii]",
     "description": "メイド服に良く合う丈夫な革製の靴です。",
     "weight": 870,
     "volume": 6,

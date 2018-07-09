@@ -1,0 +1,9 @@
+特殊襲撃時にCataclysm++のモンスターが出現するようになる差し替えファイルです。
+
+使い方
+1．元の「modinfo.json」「monster_table.lua」をバックアップする
+2．OMAKEフォルダの2ファイルをDefense_Mode_Refineにコピーして上書きする
+3．Cataclysm++と同時に襲撃MOD改造版を適用する
+4．新規キャラでゲームを始める
+5．超人ゾンビ兵に蹂躙される
+

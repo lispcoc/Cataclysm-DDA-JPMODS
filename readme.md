@@ -39,6 +39,8 @@ MODの導入・ご使用は自己責任でお願いします。不具合が発�
     - KawaiiMaidMod
 - Cataclysmスレ 65日目 >>914氏
     - cataclysmdda翻訳ファイルMOD追加版
+- Cataclysmスレ 67日目 >>115氏
+    - 襲撃MOD改造版、襲撃MOD大吟醸
 
 ほか調査中。<br>
 

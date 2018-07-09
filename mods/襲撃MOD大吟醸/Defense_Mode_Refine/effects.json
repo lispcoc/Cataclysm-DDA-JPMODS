@@ -1,0 +1,23 @@
+[
+  {
+    "type": "effect_type",
+    "id": "DMR_day_controller",
+    "name": ["襲撃MOD大吟醸：有効"],
+    "desc": ["襲撃MOD大吟醸が有効です。カラダニキヲツケテネ！！"]
+  },{
+    "type": "effect_type",
+    "id": "DMR_start_controller",
+    "name": ["襲撃MOD大吟醸：コントロールエフェクト"],
+    "desc": ["開始時刻制御用"]
+  },{
+    "type": "effect_type",
+    "id": "DMR_end_controller",
+    "name": ["襲撃MOD大吟醸：コントロールエフェクト"],
+    "desc": ["終了時刻制御用"]
+  },{
+    "type": "effect_type",
+    "id": "DMR_spawn_controller",
+    "name": ["襲撃MOD大吟醸：コントロールエフェクト"],
+    "desc": ["生成判定制御用"]
+  }
+]
